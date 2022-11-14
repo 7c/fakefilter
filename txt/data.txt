@@ -1,6 +1,6 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2022-11-13T00:07:09.358Z
+# Last Update: 2022-11-14T00:07:12.140Z
 
 
 ## 20minutemail.com
@@ -2729,6 +2729,7 @@ huuduc8404.xyz
 neoski.tk
 aliexchangevn.com
 hobbybeach.com
+cliol.com
 
 ## emailondeck.com
 matchingwrw.com
@@ -2937,6 +2938,7 @@ atxcrunner.com
 eqsaucege.com
 xwkqguild.com
 lvgreatestj.com
+vtqreplaced.com
 
 ## fakemail.io
 fakemail.io
@@ -4367,6 +4369,8 @@ omg-greatfood.com
 qpowfopqwipoqwe.ga
 lyqmeu.xyz
 cnbet8.com
+weekwater.us
+maill.dev
 
 ## getnada.com
 tafmail.com
@@ -4614,6 +4618,7 @@ tempmail.cn
 
 ## mail.gen.tr
 mail.gen.tr
+10dkmail.net
 
 ## gecicimail.com.tr
 epostamax.com
@@ -6466,6 +6471,7 @@ daypart.us
 teamtrac.org
 iniprm.com
 i-slotv.xyz
+redviet.com
 
 ## mailcatch.com
 mailcatch.com
@@ -6671,6 +6677,7 @@ hempyl.com
 hoxds.com
 lidely.com
 lance7.com
+kixotic.com
 
 ## 10minemail.com
 tourcc.com
