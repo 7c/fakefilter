@@ -1,6 +1,6 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2022-11-16T00:07:10.504Z
+# Last Update: 2022-11-17T00:07:07.896Z
 
 
 ## 20minutemail.com
@@ -1412,6 +1412,15 @@ sambeltrasi.site
 mysukam.com
 iigmail.com
 tehsisri.email
+workcountry.us
+maill.dev
+psirens.icu
+twoweelz.com
+storycompany.us
+1stdibs.icu
+pepenews.club
+hotelsatudaipur.com
+mailrfngon.xyz
 
 ## emailfake.com
 tchoeo.com
@@ -2751,6 +2760,13 @@ maxseeding.com
 salst.ninja
 msivina.com
 postfach2go.de
+joopeerr.com
+psirens.icu
+upperhere.com
+cybermax.systems
+gmailll.tech
+hobbyfreedom.com
+curcuplas.me
 
 ## emailondeck.com
 matchingwrw.com
@@ -2961,6 +2977,8 @@ xwkqguild.com
 lvgreatestj.com
 vtqreplaced.com
 qkjruledr.com
+ustudentli.com
+qfhometown.com
 
 ## fakemail.io
 fakemail.io
@@ -4404,6 +4422,11 @@ evolutionary-wealth.net
 secure-mail.cc
 mycartzpro.com
 fq1my2c.com
+mysukam.com
+gmailll.org
+ferryardianaliasemailgenerator.gq
+programmr.us
+twoweelz.com
 
 ## getnada.com
 tafmail.com
@@ -4515,6 +4538,7 @@ waterisgone.com
 paperpapyrus.com
 klovenode.com
 drowblock.com
+dishcatfish.com
 
 ## tempail.com
 vusra.com
@@ -6513,6 +6537,13 @@ kertasqq.com
 alimaseh.space
 axatech.tech
 iigmail.com
+mondaylaura.com
+hotelsatudaipur.com
+mysukam.com
+clearancebooth.com
+istitutocomprensivo-cavaglia.it
+astyx.fun
+sepican.website
 
 ## mailcatch.com
 mailcatch.com
@@ -6721,6 +6752,7 @@ lance7.com
 kixotic.com
 invodua.com
 jernang.com
+pamaweb.com
 
 ## 10minemail.com
 tourcc.com
@@ -6892,6 +6924,8 @@ keshitv.com
 klblogs.com
 invodua.com
 jernang.com
+sopulit.com
+lance7.com
 
 ## throwawaymail.com
 mywrld.top
