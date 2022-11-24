@@ -1,6 +1,6 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2022-11-23T00:07:05.967Z
+# Last Update: 2022-11-24T00:07:08.085Z
 
 
 ## 20minutemail.com
@@ -1452,6 +1452,8 @@ mailant.xyz
 brownell150.com
 waitloek.fun
 toowerl.com
+educationmail.info
+pankasyno23.com
 
 ## emailfake.com
 tchoeo.com
@@ -2817,6 +2819,9 @@ tearflakes.com
 sbuttone.com
 skynettool.xyz
 mailinc.tech
+somebodyswrong.com
+klebus.tech
+kinitawowis.xyz
 
 ## emailondeck.com
 matchingwrw.com
@@ -4508,6 +4513,8 @@ zakatdimas.site
 waitloek.online
 martinezfamilia.com
 sesforyou.com
+play1x.icu
+saxlift.us
 
 ## getnada.com
 tafmail.com
@@ -6652,6 +6659,10 @@ tehsisri.email
 00sh.cf
 wybuwy.xyz
 programmr.us
+skynettool.xyz
+neuvrjpfdi.ga
+nightmedia.cf
+sportsfoo.com
 
 ## mailcatch.com
 mailcatch.com
@@ -6865,6 +6876,9 @@ sopulit.com
 turuma.com
 probdd.com
 teknowa.com
+xegge.com
+nubotel.com
+sunetoa.com
 
 ## 10minemail.com
 tourcc.com
