@@ -1,6 +1,6 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2022-12-09T00:07:33.019Z
+# Last Update: 2022-12-10T00:07:44.726Z
 
 
 ## 20minutemail.com
@@ -1509,6 +1509,7 @@ localnews2021.xyz
 pegasse.biz
 rueaxnbkff.ga
 abigailbatchelder.com
+shonecool.online
 
 ## emailfake.com
 tchoeo.com
@@ -2923,6 +2924,13 @@ hitmaan.tk
 qwpofqpoweipoqw.tk
 slissi.site
 mistakens.store
+eth0009mine.cf
+infoalgers.info
+ggo.one
+shanky.cf
+raanank.com
+cnbet8.com
+yonaki.xyz
 
 ## emailondeck.com
 matchingwrw.com
@@ -3151,6 +3159,7 @@ mimailtoix.com
 ybananaulx.com
 tlwpleasure.com
 ddressingc.com
+yljthese.com
 
 ## fakemail.io
 fakemail.io
@@ -4661,6 +4670,7 @@ komalik.club
 myacc.codes
 articulate.cf
 besttimenews.xyz
+mayboy.xyz
 
 ## getnada.com
 tafmail.com
@@ -6869,6 +6879,7 @@ esgebe.email
 jmsmashie.tk
 kumpulanmedia.com
 taobaigou.club
+voirserie-streaming.com
 
 ## mailcatch.com
 mailcatch.com
