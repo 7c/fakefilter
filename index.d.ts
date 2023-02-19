@@ -5,15 +5,10 @@ declare module "fakefilter" {
     lastseen: number;
     randomSubdomain: string | boolean;
   }
-  interface FakeResponse {
+  interface FakeDomainResponse {
     retcode: number;
-    details: DomainDetails | null;
-  }
-  interface FakeDomainResponse extends FakeResponse {
     isFakeDomain: string | false;
-  }
-  interface FakeEmailResponse extends FakeResponse {
-    isFakeEmail: string | false;
+    details: DomainDetails | null;
   }
   function isFakeDomain(domain: string, json?: boolean): string | false;
   function isFakeEmail(email: string, json?: boolean): string | false;
@@ -24,5 +19,5 @@ declare module "fakefilter" {
   function isFakeEmailOnline(
     email: string,
     timeout?: number
-  ): Promise<FakeEmailResponse>;
+  ): Promise<FakeDomainResponse>;
 }
