@@ -4,6 +4,7 @@
   "description": "reliable fake and temp email filter solution for site operators",
   "license": "BSD-3-Clause",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
