@@ -31,6 +31,10 @@ You may use one of these formats to have access to the information flow in your 
 [Json](json/data.json)
 This format supports firstseen,lastseen,randomSubdomain properties
 
+[Json v2](json/data_version2.json)
+A fakedomain might belong to multiple providers, in this format we list their PSL (Public Suffix List) based domain and all known hostnames belonging to this PSL domain. Ths version also supports IDN domains, all domains are punycode.
+
+
 [Txt](txt/data.txt)
 
 ## Whitelist

@@ -6,8 +6,12 @@
 
 */
 const assert = require('assert');
-const static_json = require('./json/data.json')
+const static_json_v1 = require('./json/data.json')
 const https = require('https')
+const http = require('http')
+const apiserver = "https://fakefilter.net"
+// const apiserver = "http://127.0.0.1:5520" -- local tests
+const scheme = apiserver.search(/^https/) === 0 ? "https" : "http"
 
 function hostnameFromEmailAddress(email) {
     if (email && typeof email === 'string' && email.search(/@/) > 0)
@@ -16,7 +20,7 @@ function hostnameFromEmailAddress(email) {
 }
 
 function isFakeDomain(domain, json = false) {
-    if (!json) json = static_json
+    if (!json) json = static_json_v1
     for (let dom of Object.keys(json.domains)) {
         // exact match
         if (dom === domain.toLowerCase().trim()) return dom
@@ -26,10 +30,13 @@ function isFakeDomain(domain, json = false) {
     return false
 }
 
-function fetch(url, timeout = 5000,json=true) {
+function fetch(url, timeout = 5000, json = true) {
     return new Promise(async function (resolve, reject) {
         try {
-            let request = https.get(url, (res) => {
+            let proto = apiserver.search(/^https/) === 0 ? https : http
+            
+
+            let request = proto.get(url, (res) => {
                 if (res.statusCode !== 200) {
                     res.resume()
                     return reject('STATUSCODE')
@@ -40,7 +47,7 @@ function fetch(url, timeout = 5000,json=true) {
                     if (json) {
                         try {
                             return resolve(JSON.parse(data))
-                        }catch(err) {
+                        } catch (err) {
                             return resolve(false)
                         }
                     }
@@ -67,20 +74,20 @@ function isFakeEmail(email, json = false) {
     return isFakeDomain(hostnameFromEmailAddress(email), json)
 }
 
-function isFakeEmailOnline(email, timeout=5000) {
+function isFakeEmailOnline(email, timeout = 5000) {
     return isFakeDomainOnline(hostnameFromEmailAddress(email), timeout)
 }
 
 
-function isFakeDomainOnline(domain,timeout=5000) {
+function isFakeDomainOnline(domain, timeout = 5000) {
     // we intentionally do not reject because we do not want to hold
     // the process too long, null indicates error
     return new Promise(async function (resolve, reject) {
         try {
-            let answer = await fetch(`https://fakefilter.net/api/is/fakedomain/${domain}`,timeout,true)
-            if (answer && answer.hasOwnProperty('retcode') && answer.retcode===200)
+            let answer = await fetch(`${apiserver}/api/is/fakedomain/${domain}`, timeout, true)
+            if (answer && answer.hasOwnProperty('retcode') && answer.retcode === 200)
                 return resolve(answer)
-        }catch(err) {
+        } catch (err) {
             // error returns null
             return resolve(null)
         }
@@ -92,7 +99,7 @@ async function runTests() {
 
     // not existing domain
     try {
-        await fetch(`https://nonexisting${Date.now()}.com`)
+        await fetch(`${scheme}://nonexisting${Date.now()}.com`)
         assert.equal(false, true) // we should never reach this position
     } catch (err) {
         assert.equal(err.code, 'ENOTFOUND')
@@ -100,7 +107,7 @@ async function runTests() {
 
     // not existing url on existing domain
     try {
-        await fetch(`https://fakefilter.net/notexisting`)
+        await fetch(`${apiserver}/notexisting`)
         assert.equal(false, true) // we should never reach this position
     } catch (err) {
         assert.equal(err, 'STATUSCODE')
@@ -125,19 +132,19 @@ async function runTests() {
 
     // 404
     try {
-        await fetch(`https://fakefilter.net/api/is/fakedomain/`)
+        await fetch(`${apiserver}/api/is/fakedomain/`)
         assert.equal(false, true) // we should never reach this position
     } catch (err) {
         assert.equal(err, 'STATUSCODE')
     }
 
     // non FakeDomain
-    assert.equal((await fetch(`https://fakefilter.net/api/is/fakedomain/fakefilter.net`)).retcode,200)
+    assert.equal((await fetch(`${apiserver}/api/is/fakedomain/fakefilter.net`)).retcode, 200)
     // FakeDomain
-    assert.equal((await fetch(`https://fakefilter.net/api/is/fakedomain/fakefilte r.net`)).retcode,-50)    
+    assert.equal((await fetch(`${apiserver}/api/is/fakedomain/fakefilte r.net`)).retcode, -50)
 
 
-    let json = static_json
+    let json = static_json_v1
     console.log(`Running tests`)
     let all_domains = Object.keys(json.domains)
 
@@ -163,9 +170,9 @@ async function runTests() {
         assert.notEqual(isFakeEmail(`any@sub.${domain}`), false)
 
         // RESTFul API query
-        assert.equal((await isFakeDomainOnline(domain)).isFakeDomain,domain)
+        assert.equal((await isFakeDomainOnline(domain)).isFakeDomain, domain)
         assert.equal((await isFakeEmailOnline(`any@${domain}`)).isFakeDomain, domain)
-        assert.equal((await isFakeEmailOnline(`any@sub${domain}`)).isFakeDomain, false)
+        assert.equal((await isFakeEmailOnline(`any@sub.${domain}`)).isFakeDomain, "sub." + domain)
     }
     console.log(`OK`)
     process.exit(0)
@@ -183,3 +190,4 @@ module.exports = {
     isFakeDomainOnline,
     isFakeEmailOnline
 }
+
