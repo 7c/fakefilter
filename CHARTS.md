@@ -69,6 +69,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### altmails.com
 ![Success Rate for altmails.com](https://fakefilter.net/public/img/dynamic/success-rate-3250857e2643531c4c98486c4d6583a8.png)
 
+### anonbox.net
+![Success Rate for anonbox.net](https://fakefilter.net/public/img/dynamic/success-rate-1a85c1141b9b1d16229760f39e16aa76.png)
+
 ### another-temp-mail.com
 ![Success Rate for another-temp-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-e568aceb6849b8a2016fa761b2ca8057.png)
 
