@@ -372,6 +372,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempo-mail.xyz
 ![Success Rate for tempo-mail.xyz](https://fakefilter.net/public/img/dynamic/success-rate-0d8d3e59735bf044b0b1ce24352de2ae.png)
 
+### temporary-email.com
+![Success Rate for temporary-email.com](https://fakefilter.net/public/img/dynamic/success-rate-4302b4096fbb43a265e2fc5bb2b31c61.png)
+
 ### temporary-mail.net
 ![Success Rate for temporary-mail.net](https://fakefilter.net/public/img/dynamic/success-rate-5093c42e82d8b9b8ad6a07fec969efba.png)
 
@@ -389,6 +392,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### tenmail.org
 ![Success Rate for tenmail.org](https://fakefilter.net/public/img/dynamic/success-rate-fca48b9bfa4b1f8c46235cc68d45c337.png)
+
+### thnen.com
+![Success Rate for thnen.com](https://fakefilter.net/public/img/dynamic/success-rate-67600942541f867e30e018010603b6b1.png)
 
 ### throwaway.io
 ![Success Rate for throwaway.io](https://fakefilter.net/public/img/dynamic/success-rate-77971e5acc16b1eec70023a930612f93.png)
