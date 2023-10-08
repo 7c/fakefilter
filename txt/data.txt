@@ -15541,3 +15541,8 @@ fivemails.com
 ## 10-minuten-mail.de
 10-minuten-mail.de
 
+## unknown origin
+bithub.lol
+emailhub.online
+scoobydoofanclub.net
+
