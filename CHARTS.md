@@ -435,9 +435,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### throwaway.io
 ![Success Rate for throwaway.io](https://fakefilter.net/public/img/dynamic/success-rate-77971e5acc16b1eec70023a930612f93.png)
 
-### throwawaymail.com
-![Success Rate for throwawaymail.com](https://fakefilter.net/public/img/dynamic/success-rate-d0765c9c6043604115a5c0f858ef28b3.png)
-
 ### tmail.gg
 ![Success Rate for tmail.gg](https://fakefilter.net/public/img/dynamic/success-rate-7b8b9383902708030b6ddfdedcd8f5bc.png)
 
