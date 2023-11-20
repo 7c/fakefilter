@@ -393,9 +393,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempmailed.com
 ![Success Rate for tempmailed.com](https://fakefilter.net/public/img/dynamic/success-rate-5cb2298b10179a1f2e28058b6f42e3c6.png)
 
-### tempmailid.com
-![Success Rate for tempmailid.com](https://fakefilter.net/public/img/dynamic/success-rate-ff5d48624123e99f5bc5e061b481d7b3.png)
-
 ### tempmailo.com
 ![Success Rate for tempmailo.com](https://fakefilter.net/public/img/dynamic/success-rate-067f06504da86680d2ef7720e7a16987.png)
 
