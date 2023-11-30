@@ -1,6 +1,6 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2023-11-30T18:37:13.116Z
+# Last Update: 2023-11-30T18:38:40.703Z
 
 
 ## anonmails.de

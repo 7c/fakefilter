@@ -7,7 +7,7 @@ Amount of coverage, actions against all known Disposable Email Providers per Day
 
 ### Daily Unique Disposable Domains
 Number of unique known validated Disposable Domains in Total at given Day.
-![Daily Disposable Domains](https://fakefilter.net/public/img/dynamic/chart1.png)
+![Daily Disposable Domains](https://fakefilter.net/public/img/dynamic/chart2.png)
 
 ### Monthly Unique Disposable Domains
 Number of unique known validated Disposable Domains in Total at given Month.
