@@ -7,11 +7,11 @@ There are other lists like https://gist.github.com/adamloving/4401361 , https://
 # Stats
 ## Daily Coverage
 Amount of coverage, actions against all known Disposable Email Providers per Day
-![Daily Coverage](https://fakefilter.net/public/img/dynamic/chart1.png)
+![Monthly Coverage](https://fakefilter.net/public/img/dynamic/chart1.png)
 
-## Daily Unique Disposable Domains
-Number of unique known validated Disposable Domains in Total at given Day
-![Daily Disposable Domains](https://fakefilter.net/public/img/dynamic/chart2.png)
+## Monthly Unique Disposable Domains
+Number of unique known validated Disposable Domains in Total at given Month
+![Monthly Disposable Domains](https://fakefilter.net/public/img/dynamic/chart3.png)
 
 
 ## Success Rate Charts
