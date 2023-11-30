@@ -34,8 +34,10 @@ This format supports firstseen,lastseen,randomSubdomain properties
 [Json v2](json/data_version2.json)
 A fakedomain might belong to multiple providers, in this format we list their PSL (Public Suffix List) based domain and all known hostnames belonging to this PSL domain. Ths version also supports IDN domains, all domains are punycode.
 
-
 [Txt](txt/data.txt)
+
+## Expired Domains
+Our service removes domains from fakefilter (json/api/markdown/txt) after a year of inactivity. If these domains reappear, they are reinstated in our database for a minimum of 365 days. You can find the list of expired domains per provider [here](markdown/EXPIRED.md)
 
 ## Whitelist
 We whitelist major well-known providers from being blocked from fakefilter, just to make sure we do not add them automatically from our system. Some providers offer @gmail<dot>com emails, adding such domains would be painful for the community.
