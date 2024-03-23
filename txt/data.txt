@@ -1,7 +1,136 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2024-03-23T18:23:22.371Z
+# Last Update: 2024-03-23T18:25:50.613Z
 
+
+## mail1a.de
+mail1a.de
+
+## spoofmail.de
+candymail.de
+doublemail.de
+funnymail.de
+puppetmail.de
+spoofmail.fr
+spoofmail.es
+spoofmail.de
+
+## mail7.io
+mail7.io
+
+## dropmail.me
+spymail.one
+emlhub.com
+emltmp.com
+minimail.gq
+emlpro.com
+freeml.net
+10mail.org
+10mail.xyz
+flymail.tk
+yomail.info
+laste.ml
+dropmail.me
+10mail.tk
+zeroe.ml
+drope.ml
+supere.ml
+firste.ml
+
+## temp-mail.io
+waterisgone.com
+zlorkun.com
+rfcdrive.com
+tippabble.com
+greencafe24.com
+gonetor.com
+myinfoinc.com
+somelora.com
+sfolkar.com
+skygazerhub.com
+rentforsale7.com
+pirolsnet.com
+zipcatfish.com
+bloheyz.com
+gixenmixen.com
+happy2023year.com
+superblohey.com
+dishcatfish.com
+drowblock.com
+klovenode.com
+coffeetimer24.com
+paperpapyrus.com
+coooooool.com
+
+## temporarymail.com
+easymailer.live
+allfreemail.net
+freemailonline.us
+basicmail.host
+
+## thnen.com
+thnen.com
+
+## easytrashmail.com
+easytrashmail.com
+
+## anonmails.de
+anonmails.de
+
+## fakemail.net
+farmoaks.com
+falkcia.com
+forkshape.com
+free2ducks.com
+feerock.com
+fixedfor.com
+fullangle.org
+findours.com
+foundtoo.com
+
+## trashmail.ws
+freeinbox.cyou
+trashmail.ws
+
+## temporary-mail.net
+deepyinc.com
+inctart.com
+justdefinition.com
+maillazy.com
+mediaholy.com
+comparisions.net
+eur-rate.com
+celebrityfull.com
+besttempmail.com
+temporary-mail.net
+spinwheelnow.com
+usd-rates.com
+celebritydetailed.com
+5letterwordsfinder.com
+bestwheelspinner.com
+randompickers.com
+streetsinus.com
+allaboutword.com
+idrrate.com
+
+## 10minutemail.info
+fosiq.com
+vogco.com
+romog.com
+zbock.com
+uzxia.com
+
+## shitmail.me
+shitmail.me
+
+## dodsi.com
+yevme.com
+
+## 10minut.xyz
+10minut.xyz
+
+## niepodam.pl
+niepodam.pl
 
 ## yopmail.net
 yopmail.net
@@ -13679,69 +13808,6 @@ opentrash.com
 fake-box.com
 you-spam.com
 
-## niepodam.pl
-niepodam.pl
-
-## mail7.io
-mail7.io
-
-## temp-mail.io
-zlorkun.com
-rfcdrive.com
-tippabble.com
-greencafe24.com
-gonetor.com
-myinfoinc.com
-somelora.com
-waterisgone.com
-sfolkar.com
-skygazerhub.com
-rentforsale7.com
-pirolsnet.com
-zipcatfish.com
-bloheyz.com
-gixenmixen.com
-happy2023year.com
-superblohey.com
-dishcatfish.com
-drowblock.com
-klovenode.com
-coffeetimer24.com
-paperpapyrus.com
-coooooool.com
-
-## dropmail.me
-spymail.one
-emlhub.com
-emltmp.com
-minimail.gq
-emlpro.com
-freeml.net
-10mail.org
-10mail.xyz
-flymail.tk
-yomail.info
-laste.ml
-dropmail.me
-10mail.tk
-zeroe.ml
-drope.ml
-supere.ml
-firste.ml
-
-## 10minutemail.info
-fosiq.com
-vogco.com
-romog.com
-zbock.com
-uzxia.com
-
-## temporarymail.com
-allfreemail.net
-freemailonline.us
-easymailer.live
-basicmail.host
-
 ## getnada.com
 inboxes.com
 getnada.com
@@ -13754,74 +13820,8 @@ robot-mail.com
 dropjar.com
 givmail.com
 
-## spoofmail.de
-candymail.de
-doublemail.de
-funnymail.de
-puppetmail.de
-spoofmail.fr
-spoofmail.es
-spoofmail.de
-
-## dodsi.com
-yevme.com
-
-## 10minut.xyz
-10minut.xyz
-
-## thnen.com
-thnen.com
-
-## fakemail.net
-farmoaks.com
-falkcia.com
-forkshape.com
-free2ducks.com
-feerock.com
-fixedfor.com
-fullangle.org
-findours.com
-foundtoo.com
-
-## trashmail.ws
-freeinbox.cyou
-trashmail.ws
-
-## shitmail.me
-shitmail.me
-
-## anonmails.de
-anonmails.de
-
-## easytrashmail.com
-easytrashmail.com
-
-## temporary-mail.net
-deepyinc.com
-inctart.com
-justdefinition.com
-maillazy.com
-mediaholy.com
-comparisions.net
-eur-rate.com
-celebrityfull.com
-besttempmail.com
-temporary-mail.net
-spinwheelnow.com
-usd-rates.com
-celebritydetailed.com
-5letterwordsfinder.com
-bestwheelspinner.com
-randompickers.com
-streetsinus.com
-allaboutword.com
-idrrate.com
-
 ## dispostable.com
 dispostable.com
-
-## mail1a.de
-mail1a.de
 
 ## emailondeck.com
 tuesdayfi.com
