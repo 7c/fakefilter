@@ -34,9 +34,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### 10minut.xyz
 ![Success Rate for 10minut.xyz](https://fakefilter.net/public/img/dynamic/success-rate-737f9e618f8efda5326f513c861dc238.png)
 
-### 10minuteemails.com
-![Success Rate for 10minuteemails.com](https://fakefilter.net/public/img/dynamic/success-rate-376d04beb788fde030b69d05911e1b55.png)
-
 ### 10minutemail.co.za
 ![Success Rate for 10minutemail.co.za](https://fakefilter.net/public/img/dynamic/success-rate-837ffe0d3ae63163d45ad9afa5395445.png)
 
