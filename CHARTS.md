@@ -100,9 +100,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### chacuo.net
 ![Success Rate for chacuo.net](https://fakefilter.net/public/img/dynamic/success-rate-37c840f23a6edbf0cfe598be7aaed495.png)
 
-### crazymailing.com
-![Success Rate for crazymailing.com](https://fakefilter.net/public/img/dynamic/success-rate-9474302199dc000f54685ed97543f1b0.png)
-
 ### cryptogmail.com
 ![Success Rate for cryptogmail.com](https://fakefilter.net/public/img/dynamic/success-rate-6e6feb50d57ac35af89795c14ce72a64.png)
 
@@ -325,9 +322,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### nolog.email
 ![Success Rate for nolog.email](https://fakefilter.net/public/img/dynamic/success-rate-3b73e4daec22539d1bb22f25adbae614.png)
 
-### onetempmail.com
-![Success Rate for onetempmail.com](https://fakefilter.net/public/img/dynamic/success-rate-944dd37cc0bf14c17926dbc41809c6a5.png)
-
 ### oxyemail.com
 ![Success Rate for oxyemail.com](https://fakefilter.net/public/img/dynamic/success-rate-4d3285247b05bdd5b08e810a08cdb31e.png)
 
@@ -394,14 +388,8 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempmail.co
 ![Success Rate for tempmail.co](https://fakefilter.net/public/img/dynamic/success-rate-a8f797c1b1afdc9c15b27f393e649360.png)
 
-### tempmail.com.tr
-![Success Rate for tempmail.com.tr](https://fakefilter.net/public/img/dynamic/success-rate-fe9ddeb10966e86bc9bcf534923f90ba.png)
-
 ### tempmail.dev
 ![Success Rate for tempmail.dev](https://fakefilter.net/public/img/dynamic/success-rate-546a1a2f0420c9788ce049d801fff564.png)
-
-### tempmail.net
-![Success Rate for tempmail.net](https://fakefilter.net/public/img/dynamic/success-rate-9c84c3d66872e9f5f4b6bc95ff3ba58f.png)
 
 ### tempmail.ninja
 ![Success Rate for tempmail.ninja](https://fakefilter.net/public/img/dynamic/success-rate-1124635413ad6deeafe0ffb2826f4d6a.png)
@@ -420,9 +408,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### tempmailo.com
 ![Success Rate for tempmailo.com](https://fakefilter.net/public/img/dynamic/success-rate-067f06504da86680d2ef7720e7a16987.png)
-
-### tempmailo.org
-![Success Rate for tempmailo.org](https://fakefilter.net/public/img/dynamic/success-rate-2af72828983fdd4a51bb0a349ce4097e.png)
 
 ### tempo-email.com
 ![Success Rate for tempo-email.com](https://fakefilter.net/public/img/dynamic/success-rate-86b00304f538270b6d45b9297e6dc518.png)
