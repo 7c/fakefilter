@@ -25,9 +25,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### 10mails.net
 ![Success Rate for 10mails.net](https://fakefilter.net/public/img/dynamic/success-rate-a67d90b26d48e0d626ffa0d3aa2c335a.png)
 
-### 10minemail.com
-![Success Rate for 10minemail.com](https://fakefilter.net/public/img/dynamic/success-rate-4b42e787cacda64d2f38c835ab2a7bf2.png)
-
 ### 10minut.com.pl
 ![Success Rate for 10minut.com.pl](https://fakefilter.net/public/img/dynamic/success-rate-f8fdac7e621f8c9825114b2076fa1636.png)
 
@@ -193,9 +190,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### getnada.com
 ![Success Rate for getnada.com](https://fakefilter.net/public/img/dynamic/success-rate-324bf98d42dbfeed98678e748e9b3d65.png)
 
-### gettempmail.com
-![Success Rate for gettempmail.com](https://fakefilter.net/public/img/dynamic/success-rate-fca25051344e8c754550930220c22355.png)
-
 ### gpa.lu
 ![Success Rate for gpa.lu](https://fakefilter.net/public/img/dynamic/success-rate-dd70d4ae79e48af77a6030084804a819.png)
 
@@ -360,9 +354,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### temp-mail.io
 ![Success Rate for temp-mail.io](https://fakefilter.net/public/img/dynamic/success-rate-52ae272166489f2a0f520bb8c9d6d5c3.png)
-
-### temp-mail.org
-![Success Rate for temp-mail.org](https://fakefilter.net/public/img/dynamic/success-rate-1b91b672fd140b05b50f6f1ed93432e5.png)
 
 ### temp-mailbox.com
 ![Success Rate for temp-mailbox.com](https://fakefilter.net/public/img/dynamic/success-rate-7a9c3e5552c07cdb86077f5c7dbb5cf7.png)
