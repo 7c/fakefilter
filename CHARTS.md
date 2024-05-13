@@ -142,8 +142,14 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### emailfake.com
 ![Success Rate for emailfake.com](https://fakefilter.net/public/img/dynamic/success-rate-b642a98f8e91f16b70c52f0221064b3d.png)
 
+### emailnator.com
+![Success Rate for emailnator.com](https://fakefilter.net/public/img/dynamic/success-rate-6df95d9d2cdf7679136510fbfa2026da.png)
+
 ### emailondeck.com
 ![Success Rate for emailondeck.com](https://fakefilter.net/public/img/dynamic/success-rate-337fd310361854303003b6895886c610.png)
+
+### etempmail.com
+![Success Rate for etempmail.com](https://fakefilter.net/public/img/dynamic/success-rate-f1c481641b77efdca74d833403e786ee.png)
 
 ### etempmail.net
 ![Success Rate for etempmail.net](https://fakefilter.net/public/img/dynamic/success-rate-afbbfba4d7d5a639da299bf7a8e58ab4.png)
@@ -190,6 +196,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### getnada.com
 ![Success Rate for getnada.com](https://fakefilter.net/public/img/dynamic/success-rate-324bf98d42dbfeed98678e748e9b3d65.png)
 
+### gmailcity.com
+![Success Rate for gmailcity.com](https://fakefilter.net/public/img/dynamic/success-rate-22e2ea43978b514174098fe830066aeb.png)
+
 ### gpa.lu
 ![Success Rate for gpa.lu](https://fakefilter.net/public/img/dynamic/success-rate-dd70d4ae79e48af77a6030084804a819.png)
 
@@ -228,6 +237,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### linshiyou.com
 ![Success Rate for linshiyou.com](https://fakefilter.net/public/img/dynamic/success-rate-b93f0b89f0eb94358a645081d6b01a61.png)
+
+### linshiyouxiang.net
+![Success Rate for linshiyouxiang.net](https://fakefilter.net/public/img/dynamic/success-rate-89f873c94b61cf6f8e45d0153febbf14.png)
 
 ### lroid.com
 ![Success Rate for lroid.com](https://fakefilter.net/public/img/dynamic/success-rate-8b8e35a99a1edb7d7ddbb9884ffe12bb.png)
@@ -334,6 +346,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### shitmail.org
 ![Success Rate for shitmail.org](https://fakefilter.net/public/img/dynamic/success-rate-f40c13b229dc35748b2483fadae27fd3.png)
 
+### snapmail.cc
+![Success Rate for snapmail.cc](https://fakefilter.net/public/img/dynamic/success-rate-821cae6f1f5294d2f901cd8fcdc2eac1.png)
+
 ### spamdecoy.net
 ![Success Rate for spamdecoy.net](https://fakefilter.net/public/img/dynamic/success-rate-987b0873735ea8a5a8c03aa7295b46ab.png)
 
@@ -354,6 +369,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### temp-mail.io
 ![Success Rate for temp-mail.io](https://fakefilter.net/public/img/dynamic/success-rate-52ae272166489f2a0f520bb8c9d6d5c3.png)
+
+### temp-mail.org
+![Success Rate for temp-mail.org](https://fakefilter.net/public/img/dynamic/success-rate-1b91b672fd140b05b50f6f1ed93432e5.png)
 
 ### temp-mailbox.com
 ![Success Rate for temp-mailbox.com](https://fakefilter.net/public/img/dynamic/success-rate-7a9c3e5552c07cdb86077f5c7dbb5cf7.png)
