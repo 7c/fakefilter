@@ -1,6 +1,6 @@
 {
   "name": "fakefilter",
-  "version": "0.1.959",
+  "version": "0.1.960",
   "description": "reliable fake and temp email filter solution for site operators",
   "license": "BSD-3-Clause",
   "main": "index.js",
