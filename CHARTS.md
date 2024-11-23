@@ -73,6 +73,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### akmail.in
 ![Success Rate for akmail.in](https://fakefilter.net/public/img/dynamic/success-rate-83458fd7401028f0322aa950a62a3bad.png)
 
+### altaddress.org
+![Success Rate for altaddress.org](https://fakefilter.net/public/img/dynamic/success-rate-f2424891f224b16612f1d3322b01deb8.png)
+
 ### altmails.com
 ![Success Rate for altmails.com](https://fakefilter.net/public/img/dynamic/success-rate-3250857e2643531c4c98486c4d6583a8.png)
 
@@ -81,6 +84,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### anonmails.de
 ![Success Rate for anonmails.de](https://fakefilter.net/public/img/dynamic/success-rate-f22f3fc1ba2f8089dd7a6027c6ae1c94.png)
+
+### anonymmail.net
+![Success Rate for anonymmail.net](https://fakefilter.net/public/img/dynamic/success-rate-03886f0ff7ee21f468d9f0828011e1fb.png)
 
 ### another-temp-mail.com
 ![Success Rate for another-temp-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-e568aceb6849b8a2016fa761b2ca8057.png)
@@ -169,6 +175,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### fakermail.com
 ![Success Rate for fakermail.com](https://fakefilter.net/public/img/dynamic/success-rate-07032a19d9559ebf6a46735d3005e28b.png)
 
+### faxmail.co
+![Success Rate for faxmail.co](https://fakefilter.net/public/img/dynamic/success-rate-8b6b716e40543d17fe44fdf01d33234b.png)
+
 ### fex.plus
 ![Success Rate for fex.plus](https://fakefilter.net/public/img/dynamic/success-rate-c570f501dd8fee6e80ca02504f24839d.png)
 
@@ -223,6 +232,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### instantemailaddress.com
 ![Success Rate for instantemailaddress.com](https://fakefilter.net/public/img/dynamic/success-rate-8e9d9260a3218299003b944e1fec589f.png)
 
+### internxt.com
+![Success Rate for internxt.com](https://fakefilter.net/public/img/dynamic/success-rate-363dc9c1bd543f6b2548fa21b75aa8af.png)
+
 ### jooko.info
 ![Success Rate for jooko.info](https://fakefilter.net/public/img/dynamic/success-rate-930f0ad1653d7d6aad877820ec952b66.png)
 
@@ -264,6 +276,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### mail.tm
 ![Success Rate for mail.tm](https://fakefilter.net/public/img/dynamic/success-rate-2c082c1e11d4e0042c526daf2ce955eb.png)
+
+### mail1.io
+![Success Rate for mail1.io](https://fakefilter.net/public/img/dynamic/success-rate-6f296685146ca8d27a397e2771dcdfbd.png)
 
 ### mail1a.de
 ![Success Rate for mail1a.de](https://fakefilter.net/public/img/dynamic/success-rate-f75fbd08ff3a1c19c15a39e592cae702.png)
@@ -358,6 +373,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### spoofmail.de
 ![Success Rate for spoofmail.de](https://fakefilter.net/public/img/dynamic/success-rate-87d6eb761d27c12f506fd0ac7b1dda87.png)
 
+### static
+![Success Rate for static](https://fakefilter.net/public/img/dynamic/success-rate-a81259cef8e959c624df1d456e5d3297.png)
+
 ### t-mail.org
 ![Success Rate for t-mail.org](https://fakefilter.net/public/img/dynamic/success-rate-9f2cf15257ff712220066cf67a0435d2.png)
 
@@ -366,6 +384,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### temp-inbox.com
 ![Success Rate for temp-inbox.com](https://fakefilter.net/public/img/dynamic/success-rate-4c58eaebab42f93bb9aa17538e2282d7.png)
+
+### temp-inbox.me
+![Success Rate for temp-inbox.me](https://fakefilter.net/public/img/dynamic/success-rate-a22c602ef2f002be078c60d8263939b6.png)
 
 ### temp-mail.io
 ![Success Rate for temp-mail.io](https://fakefilter.net/public/img/dynamic/success-rate-52ae272166489f2a0f520bb8c9d6d5c3.png)
@@ -388,6 +409,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempinbox.xyz
 ![Success Rate for tempinbox.xyz](https://fakefilter.net/public/img/dynamic/success-rate-db735acaafa348365fab47ca57bd98e9.png)
 
+### tempmail.adguard.com
+![Success Rate for tempmail.adguard.com](https://fakefilter.net/public/img/dynamic/success-rate-674897322f5cc0914878b17214266e81.png)
+
 ### tempmail.altmails.com
 ![Success Rate for tempmail.altmails.com](https://fakefilter.net/public/img/dynamic/success-rate-c4d6f5d6bb1abb4d16b2d63ac80d4f4d.png)
 
@@ -400,11 +424,17 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempmail.dev
 ![Success Rate for tempmail.dev](https://fakefilter.net/public/img/dynamic/success-rate-546a1a2f0420c9788ce049d801fff564.png)
 
+### tempmail.io
+![Success Rate for tempmail.io](https://fakefilter.net/public/img/dynamic/success-rate-70157280a6d4120d213bc177c1e53c74.png)
+
 ### tempmail.ninja
 ![Success Rate for tempmail.ninja](https://fakefilter.net/public/img/dynamic/success-rate-1124635413ad6deeafe0ffb2826f4d6a.png)
 
 ### tempmail.plus
 ![Success Rate for tempmail.plus](https://fakefilter.net/public/img/dynamic/success-rate-709dc253496b88ce5f6fe792a9e04bc4.png)
+
+### tempmail.quest
+![Success Rate for tempmail.quest](https://fakefilter.net/public/img/dynamic/success-rate-ac7595f03e0186d8ba05f5496f7ba9fc.png)
 
 ### tempmail.run
 ![Success Rate for tempmail.run](https://fakefilter.net/public/img/dynamic/success-rate-e90e3ca8e53478659558e769eac9a985.png)
