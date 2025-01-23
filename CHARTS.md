@@ -16,23 +16,8 @@ Number of unique known validated Disposable Domains in Total at given Month.
 ## Success Rate
 Per Provider Success Rate per Day - A lower Success rate might mean different things; counter measures from provider to be detected like capchas or even service downtime.
 
-### 10-minute-mail.com
-![Success Rate for 10-minute-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-d5b26c1385e07812c2f1219867e054eb.png)
-
-### 10-minuten-mail.de
-![Success Rate for 10-minuten-mail.de](https://fakefilter.net/public/img/dynamic/success-rate-d2881acceb99a6ed4400dcd7f658636a.png)
-
-### 10mails.net
-![Success Rate for 10mails.net](https://fakefilter.net/public/img/dynamic/success-rate-a67d90b26d48e0d626ffa0d3aa2c335a.png)
-
-### 10minut.com.pl
-![Success Rate for 10minut.com.pl](https://fakefilter.net/public/img/dynamic/success-rate-f8fdac7e621f8c9825114b2076fa1636.png)
-
 ### 10minut.xyz
 ![Success Rate for 10minut.xyz](https://fakefilter.net/public/img/dynamic/success-rate-737f9e618f8efda5326f513c861dc238.png)
-
-### 10minutemail.co.za
-![Success Rate for 10minutemail.co.za](https://fakefilter.net/public/img/dynamic/success-rate-837ffe0d3ae63163d45ad9afa5395445.png)
 
 ### 10minutemail.com
 ![Success Rate for 10minutemail.com](https://fakefilter.net/public/img/dynamic/success-rate-036ff5dc1fb2d14b07ddec07f5aa736e.png)
@@ -49,9 +34,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### 10minutesemail.net
 ![Success Rate for 10minutesemail.net](https://fakefilter.net/public/img/dynamic/success-rate-9964462022c7d46bfa7896fd9f164b44.png)
 
-### 10minutesmail.us
-![Success Rate for 10minutesmail.us](https://fakefilter.net/public/img/dynamic/success-rate-702b3669703cadf1fe64946966ceea0d.png)
-
 ### 1secmail.com
 ![Success Rate for 1secmail.com](https://fakefilter.net/public/img/dynamic/success-rate-9ad20aeda4e9c047e8be1362e8a3dfba.png)
 
@@ -63,9 +45,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### 24hour.email
 ![Success Rate for 24hour.email](https://fakefilter.net/public/img/dynamic/success-rate-243c50c20c1bcadcca3a28744371468f.png)
-
-### abandonmail.com
-![Success Rate for abandonmail.com](https://fakefilter.net/public/img/dynamic/success-rate-2f63aaf5627aa4efe7cd0dba11b0c90b.png)
 
 ### airmailbox.website
 ![Success Rate for airmailbox.website](https://fakefilter.net/public/img/dynamic/success-rate-4b8cd6b6d7095c005ebb9c7dfe6eb809.png)
@@ -94,9 +73,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### awgarstone.com
 ![Success Rate for awgarstone.com](https://fakefilter.net/public/img/dynamic/success-rate-2c7e7357031b0d36d49b851bc9dd6df5.png)
 
-### brodilla.email
-![Success Rate for brodilla.email](https://fakefilter.net/public/img/dynamic/success-rate-b8857b0b9caae8814ffd61766c6d2179.png)
-
 ### byom.de
 ![Success Rate for byom.de](https://fakefilter.net/public/img/dynamic/success-rate-df38cb5fa553d580e105da30b35a622d.png)
 
@@ -112,23 +88,14 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### developermail.com
 ![Success Rate for developermail.com](https://fakefilter.net/public/img/dynamic/success-rate-ac6e195df2e308147db35b63520bbd73.png)
 
-### dispemail.com
-![Success Rate for dispemail.com](https://fakefilter.net/public/img/dynamic/success-rate-5b44ea5b29397e98f65de5ab99d982bc.png)
-
 ### disposableemail.co
 ![Success Rate for disposableemail.co](https://fakefilter.net/public/img/dynamic/success-rate-3428f2a27a8d95397581b74da95631fb.png)
-
-### disposableemail.us
-![Success Rate for disposableemail.us](https://fakefilter.net/public/img/dynamic/success-rate-7302dfe7bd53a7cf469b4b50bb6d8861.png)
 
 ### disposablemail.com
 ![Success Rate for disposablemail.com](https://fakefilter.net/public/img/dynamic/success-rate-76364f9103cf8bbe0a3fedbcd9641bd0.png)
 
 ### disposeamail.com
 ![Success Rate for disposeamail.com](https://fakefilter.net/public/img/dynamic/success-rate-4d938baab56a8f6efafe1963b8eed889.png)
-
-### dispostable.com
-![Success Rate for dispostable.com](https://fakefilter.net/public/img/dynamic/success-rate-2debcb04afff5a9212019415917b836a.png)
 
 ### dodsi.com
 ![Success Rate for dodsi.com](https://fakefilter.net/public/img/dynamic/success-rate-1b6813dfd5fcf45977e0aeea1f4e52b4.png)
@@ -163,9 +130,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### eyepaste.com
 ![Success Rate for eyepaste.com](https://fakefilter.net/public/img/dynamic/success-rate-a72b0cd8b4f006d6383edfd68b811f07.png)
 
-### fakemail.io
-![Success Rate for fakemail.io](https://fakefilter.net/public/img/dynamic/success-rate-1473b0c276a33ed3b264f51f7b837ae6.png)
-
 ### fakemail.net
 ![Success Rate for fakemail.net](https://fakefilter.net/public/img/dynamic/success-rate-7c612bb9207ff1094ef6f5127edb2086.png)
 
@@ -180,12 +144,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### fex.plus
 ![Success Rate for fex.plus](https://fakefilter.net/public/img/dynamic/success-rate-c570f501dd8fee6e80ca02504f24839d.png)
-
-### findtempmail.com
-![Success Rate for findtempmail.com](https://fakefilter.net/public/img/dynamic/success-rate-50782162b48cb6e0d50c06009838cb85.png)
-
-### foxiomail.com
-![Success Rate for foxiomail.com](https://fakefilter.net/public/img/dynamic/success-rate-9de592bf70798dddba0fdd884fa73e4c.png)
 
 ### fyii.de
 ![Success Rate for fyii.de](https://fakefilter.net/public/img/dynamic/success-rate-d642de57328e606cfa23036a1b1c6741.png)
@@ -223,20 +181,11 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### hizli.email
 ![Success Rate for hizli.email](https://fakefilter.net/public/img/dynamic/success-rate-c08784679b739c67f93edb17940a4c6a.png)
 
-### hottempmail.com
-![Success Rate for hottempmail.com](https://fakefilter.net/public/img/dynamic/success-rate-fa3c8533e6fd8dd5f3f1fa7c6c801fe5.png)
-
 ### instant-email.org
 ![Success Rate for instant-email.org](https://fakefilter.net/public/img/dynamic/success-rate-de201160c39d8e6f3073b7bdd241af6e.png)
 
-### instantemailaddress.com
-![Success Rate for instantemailaddress.com](https://fakefilter.net/public/img/dynamic/success-rate-8e9d9260a3218299003b944e1fec589f.png)
-
 ### internxt.com
 ![Success Rate for internxt.com](https://fakefilter.net/public/img/dynamic/success-rate-363dc9c1bd543f6b2548fa21b75aa8af.png)
-
-### jooko.info
-![Success Rate for jooko.info](https://fakefilter.net/public/img/dynamic/success-rate-930f0ad1653d7d6aad877820ec952b66.png)
 
 ### kopeechka.store
 ![Success Rate for kopeechka.store](https://fakefilter.net/public/img/dynamic/success-rate-90dfe26233bc7ee2238b01c8f1bcb068.png)
