@@ -21,11 +21,12 @@ function hostnameFromEmailAddress(email) {
 
 function isFakeDomain(domain, json = false) {
     if (!json) json = static_json_v1
-    for (let dom of Object.keys(json.domains)) {
-        // exact match
-        if (dom === domain.toLowerCase().trim()) return dom
+    const normalizedDomain = domain.toLowerCase().trim()
+    // exact match
+    if (json.domains[normalizedDomain]) return normalizedDomain
+    for (const dom in json.domains) {
         // subdomain match
-        if (domain.search(new RegExp(`.+\\.${dom}`)) === 0) return dom
+        if (new RegExp(`${dom}$`).test(normalizedDomain)) return dom
     }
     return false
 }
