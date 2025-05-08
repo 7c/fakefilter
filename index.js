@@ -1,4 +1,4 @@
-import static_json_v1 from "./json/data.json" assert { type: "json" };
+import static_json_v1 from "./json/data.json" with { type: 'json' };
 
 function hostnameFromEmailAddress(email) {
   if (email && typeof email === "string" && email.search(/@/) > 0)
