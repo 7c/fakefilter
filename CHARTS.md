@@ -445,9 +445,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### trash-mail.com
 ![Success Rate for trash-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-05ae492e5b9ce7e6a1b3cee50668da62.png)
 
-### trashmail.com
-![Success Rate for trashmail.com](https://fakefilter.net/public/img/dynamic/success-rate-0b248cbe2ff39b7570efdabe62d464bb.png)
-
 ### trashmail.de
 ![Success Rate for trashmail.de](https://fakefilter.net/public/img/dynamic/success-rate-b5f364d1a533eff64038aaa1716d0859.png)
 
