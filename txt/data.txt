@@ -1,138 +1,189 @@
 # Fake and Temp Mail Providers
 # https://github.com/7c/fakefilter
-# Last Update: 2025-11-23T00:14:29.255Z
+# Last Update: 2025-11-24T00:14:04.000Z
 
 
-## muellmail.com
-sudern.de
-stacys.mom
-spam.care
-schafmail.de
-ramenmail.de
-papierkorb.me
-oida.icu
-muellmail.com
-muellemail.com
-muell.xyz
-muell.monster
-muell.icu
-mdz.email
-magspam.net
-lambsauce.de
-knickerbockerban.de
-kein.date
-ji7.de
-ji6.de
-ji5.de
-jaga.email
-holio.day
-corn.holio.day
-bung.holio.day
-hihi.lol
-gebrauchtwarencenter.com
-fukaru.com
-fliegender.fish
-existiert.net
-edv.to
-e-postkasten.de
-dumbass.nl
-dsgvo.party
-10minutenmail.xyz
-10minmail.de
-muell.io
-wegwerfemail.de
-wegwerfemail.com
-ultra.fyi
-tonne.to
+## yopmail.fr
+yopmail.fr
 
-## mintemail.com
-cj.mintemail.com
+## mail.gen.tr
+email.net.tr
+email.gen.tr
+mail.gen.tr
 
-## anonymmail.net
-mailbali.com
-fanymail.com
-fumemail.com
-cneemail.com
+## temporary-email.org
+tousma.com
+biomails.com
+sasmil.org
+ingam.top
+omailo.top
+owmail.net
+coachnutrio.com
+icemails.top
+museumpi.com
+ahouse.top
+generad.club
+gdhospital.life
+moneytbay.life
 
-## tuamaeaquelaursa.com
-tuamaeaquelaursa.com
+## temp-mail.io
+illubd.com
+mrotzis.com
+mkzaso.com
+bwmyga.com
+yzcalo.com
+ozsaip.com
+daouse.com
+cmhvzylmfc.com
+jkotypc.com
+osxofulk.com
+bltiwd.com
+xkxkud.com
+wnbaldwy.com
+zudpck.com
+wyoxafp.com
+ibolinva.com
+jxpomup.com
+vwhins.com
+qzueos.com
+zvvzuv.com
+qejjyl.com
+qacmjeq.com
+wywnxa.com
+smykwb.com
+knmcadibav.com
+vafyxh.com
+tidissajiiu.com
+dygovil.com
+vvatxiy.com
+somelora.com
+zlorkun.com
+gonetor.com
 
-## linshiyou.com
-linshiyou.com
-
-## poo.email
-poo.email
-
-## trashmail.org
-byom.de
-trashmail.org
-
-## anonmails.de
-anonmails.de
-
-## static
-justatemp.com
-mxscout.com
-
-## fakemail.net
-fontfee.com
-freedrops.org
-fsitip.com
-fabricoak.com
-thefluent.org
-filesaved.org
-fileexp.com
-finestudio.org
-feesites.com
-
-## fakermail.com
-thespamfather.com
-itsjiff.com
-pizzajunk.com
-mailbiscuit.com
-spamfellas.com
-snakebutt.com
-realquickemail.com
-sociallymediocre.com
-silenceofthespam.com
-spamsandwich.com
-whaaaaaaaaaat.com
-chewydonut.com
-hypenated-domain.com
-lilspam.com
-sharkfaces.com
-
-## 10minutemail.com
-nespf.com
-enotj.com
-nespj.com
-nesopf.com
-xfavaj.com
-fxavaj.com
-ytnhy.com
-poplk.com
-hthlm.com
-nbmbb.com
-
-## trashmail.ws
-trashmail.ws
-
-## akmail.in
-akmail.in
-
-## 10minutemail.org
-toaik.com
+## 10minutemail.net
 laoia.com
+toaik.com
 jioso.com
 bcooq.com
 msssg.com
 kisoq.com
 inohm.com
 
-## tempmail.altmails.com
-altmails.com
+## throwaway.io
+bnbme.info
+2bedbluewaters.com
+brokeragedxb.com
+bnbme.tv
+myspainishmail.com
+encrypted4email.com
+nlopenworld.com
+mybeligummail.com
+theemailaddy.com
+nolog.network
+beligummail.com
+ledhorticultural.com
+serverwarningalert.com
+
+## mail-tester.com
+srv1.mail-tester.com
+
+## tempmail.plus
+merepost.com
+any.pink
+fextemp.com
+chitthi.in
+rover.info
+mailbox.in.ua
+fexbox.org
+fexpost.com
+mailto.plus
+
+## shitmail.org
+crapmail.org
+shitmail.org
+
+## gecicimail.com.tr
+upperbox.org
+elifart.net
+gumglue.app
+
+## internxt.com
+comfythings.com
+2200freefonts.com
+tiffincrane.com
+powerscrews.com
+somoj.com
+mechanicspedia.com
+punkproof.com
+dcpa.net
+chefalicious.com
+ptct.net
+indigobook.com
+edny.net
+e-record.com
+tohru.org
+freesourcecodes.com
+soscandia.org
+goeschman.com
+
+## txen.de
+txen.de
+aufu.de
+zegt.de
+dwrf.net
+errals.com
+pooj.de
+zeah.de
+niede.de
+skyrt.de
+xrap.de
+wsym.de
+
+## cryptogmail.com
+comfythings.com
+2200freefonts.com
+tiffincrane.com
+powerscrews.com
+somoj.com
+mechanicspedia.com
+punkproof.com
+dcpa.net
+chefalicious.com
+ptct.net
+indigobook.com
+edny.net
+e-record.com
+vintomaper.com
+labworld.org
+
+## minimail.eu.org
+minimail.eu.org
 
 ## email-fake.com
+muataikhoan.info
+otp247.me
+dmxs8.com
+khuong.store
+doanhnhanfacebook.com
+eitherium.com
+captus.cyou
+thhdfws.us
+sirkelvip.com
+fastdating.lat
+dishow.net
+toyotataganka.ru
+khoke.nl
+susumart.com
+jsh55s.us
+sparkletoc.com
+aquaguide.ru
+forumfreeai.com
+docbao7.com
+iptakedownusa.com
+konterkulo.com
+fsercure.com
+bytonf.com
+moreablle.com
 thodianamdu.com
 pp-nn.lol
 prince.id
@@ -153,8 +204,6 @@ cckuy.com
 proxy4gs.com
 xn--oi-jia8q.vn
 onick.tech
-doanhnhanfacebook.com
-bytonf.com
 scatterteam.com
 3xu.studio
 tmxttvmail.com
@@ -196,7 +245,6 @@ tiktokngon.com
 modestmugnia.io
 ahrixthinh.net
 clonemailsieure.com
-iptakedownusa.com
 narcoboy.sbs
 fvia.app
 naverly.com
@@ -225,12 +273,10 @@ getol.pro
 ydscontingencia.com
 wotomail.com
 nguyenlieu24h.com
-khuong.store
 btcmod.com
 gfacc.net
 goldenmagpies.com
 halamanenuy.net
-forumfreeai.com
 vietfashop.com
 tandlplith.se
 yaholo.cloud
@@ -246,7 +292,6 @@ dunhila.com
 iyfr.es
 longsbkt.xyz
 goldhitbtcpoolhub.cloud
-dmxs8.com
 automizly.net
 doremifasoleando.es
 boranora.com
@@ -259,7 +304,6 @@ thueotp.net
 mailphu.com
 azkankitchen.shop
 ytchanneltips.com
-moreablle.com
 kei-digital.com
 naverapp.com
 muvilo.net
@@ -280,7 +324,6 @@ mailfance.com
 chahcyrans.com
 nanatha.academy
 satorix.id
-jsh55s.us
 torrentclub.online
 77mail.xyz
 inmolaryx.es
@@ -330,7 +373,6 @@ strongnutricion.es
 sozenit.com
 foxnew.info
 superhouse.vn
-sirkelvip.com
 silvy.email
 adsensekorea.com
 faultydeniati.net
@@ -379,7 +421,6 @@ fitanu.info
 spicy.photo
 suntuy.com
 kuruyuk.com
-dishow.net
 668fmail.com
 fuadd.me
 newgoldkey.com
@@ -492,7 +533,6 @@ solusisukses.digital
 chupanhcuoidep.com
 evilgodshop.com
 torrentclub.space
-docbao7.com
 nangspa.vn
 autoxugiare.net
 sonophon.ru
@@ -542,7 +582,6 @@ sparkling.vn
 mailgetget.asia
 brutuscontingencia.site
 healthsoulger.com
-susumart.com
 soul-association.com
 gamersdady.com
 movieisme.co
@@ -705,7 +744,6 @@ livegolftv.com
 nguyendanhkietisocial.com
 scholarshipcn.com
 pickuplanet.com
-konterkulo.com
 tignovate.com
 greenovatelife.com
 devla.site
@@ -717,7 +755,6 @@ taptoplab.com
 winart.vn
 premiumvns.com
 easylangways.com
-khoke.nl
 capcutku.io
 xuseca.cloud
 mosscer.cfd
@@ -783,7 +820,6 @@ nowhivehub.com
 paytesacard.app
 writefornet.com
 himkinet.ru
-sparkletoc.com
 tokito.sbs
 jualakun.com
 digitalproductprovider.com
@@ -815,7 +851,6 @@ cbghot.com
 mskintw.top
 laoctarine.store
 bqsaptri.ovh
-fsercure.com
 organisasipoetra.io
 lidercontabilidadebrasil.com
 shiptudo.com
@@ -911,7 +946,6 @@ risantekno.com
 pp-ahbaab-al-ikhlash.com
 automisly.org
 forummaxai.com
-muataikhoan.info
 fbiagent.cyou
 meetingpoint-point.com
 findids.net
@@ -1722,7 +1756,6 @@ igduylam.click
 oxvps.us
 gmailod.com
 jualcloud.net
-aquaguide.ru
 replicant.club
 ow2ksj.shop
 admires.store
@@ -1894,19 +1927,107 @@ elsapro.uk
 rustyfariza.com
 vnindexid.edu.vn
 shiro.ae
-allsasssa.online
 
-## tempmail.adguard.com
-lettershield.com
-instantletter.net
+## edumail.icu
+academic.edu.rs
+edumail.edu.rs
+fastmail.edu.pl
+bcm.edu.pl
+gold.edu.pl
+agp.edu.pl
+gng.edu.pl
+diplo.edu.pl
+oxfor.edu.pl
+uue.edu.pl
+ares.edu.pl
+avangard.ru.com
+122444.xyz
+696902.xyz
+fastsms24.shop
+edumail.store
+albos.in
+koka.my
+bluemail.my
+spacemail.my
+jitsu.my
+poko.my
+zige.my
+fastsms.my
+galamail.biz
+ashiro.biz
+postinbox.pw
+inboxmails.de
+blogerspace.com
+doctormail.info
+mailvip.info
+vip-mail.info
+mail5.info
+floris.sa.com
+edumail.su
+uee.edu.pl
+3g.lol
+504333.xyz
+334343.xyz
+304333.xyz
+itt.it.com
+mailbuzz.buzz
+fbmail.my
+eromail.org
+mailinux.me
+blazemail.me
+fastermail.biz
+emailfast.me
+
+## altaddress.org
+intrarmour.com
+otheremail.org
+mailshield.org
+freemail.is
+just4junk.com
+altaddress.org
+ourisp.net
+newtonius.net
+email4.in
+membermail.net
+xn--80aabqk5atp.com
+altaddress.com
+spamzero.net
+hidefrom.us
+altaddress.net
+
+## trashmail.org
+byom.de
+trashmail.org
 
 ## generator.email
+prince.id
+primejetnet.com
+bargay.space
+hung89.click
+dunhila.online
+extraku.shop
+mailclone2023.top
+aumails.us
+glowingsyabrianty.biz
+chbkstore.cloud
+phuongfb.com
+techspirehub.com
+code-gmail.com
+multiwiseai.com
+physicaladithama.io
+vfarmemailmkp.click
+buybm.one
+zooms.pro
+chupanhcuoidep.com
+googl.win
+naverly.com
+halamanenuy.net
+worldfxza.com
 dudscc.com
 sanfnges.cc
 gustyjatiprakoso.co
 nihennaisi188.cc
 davenstore.com
-code-gmail.com
 pimeariver.com
 strongnutricion.es
 btcmod.com
@@ -1932,11 +2053,9 @@ shiptudo.com
 7752050.ru
 cumfoto.com
 cggup.com
-techspirehub.com
 iristrend.shop
 681mail.com
 omggreatfoods.com
-naverly.com
 vitaspherelife.com
 linkbm.one
 mail12h.com
@@ -1947,7 +2066,6 @@ ncnmedia.net
 chotgo.com
 waroengmail.app
 www845d.cc
-buybm.one
 jagomail.com
 chaocosen.com
 chatwesi.com
@@ -1972,7 +2090,6 @@ tiktokngon.com
 ilustrosonic.com
 thaitudang.xyz
 berryslimming.com
-chbkstore.cloud
 glitteringmediaswari.io
 gaskuy.me
 greenovatelife.com
@@ -2001,7 +2118,6 @@ loyalwiranti.biz
 housereformas.es
 wotomail.com
 sirkelvip.com
-googl.win
 serendora.net
 iyfr.es
 winart.vn
@@ -2011,7 +2127,6 @@ naverapp.com
 seohesapmarket.com
 k4money.com
 solusisukses.digital
-hung89.click
 joywavepoint.com
 treterter.shop
 tmxttvmail.com
@@ -2020,7 +2135,6 @@ airmail.top
 edfore.site
 caychayyy.shop
 getmail1.com
-prince.id
 capcuter.com
 spicy.photo
 jancok.co
@@ -2067,7 +2181,6 @@ foxnew.info
 mailngon.top
 11jac.com
 mmo55.com
-zooms.pro
 maximail.store
 solkill.store
 haiserat.network
@@ -2083,7 +2196,6 @@ receita-iof.org
 yujiehanjiao.cc
 gaskuy93.art
 forumfreeai.com
-halamanenuy.net
 chinaqoe.com
 pcaa.lol
 xuchuyen.com
@@ -2139,7 +2251,6 @@ akbip.com
 doods7.com
 banhang14.com
 sanalcell.network
-phuongfb.com
 175vip.xyz
 codemail1.com
 anheakao.xyz
@@ -2171,7 +2282,6 @@ bankinnepal.com
 kaybooks.top
 successfulnewspedia.com
 dishow.net
-extraku.shop
 zariaglam.shop
 flyriseweb.com
 konterkulo.com
@@ -2269,7 +2379,6 @@ hieuclone.com
 lilywear.shop
 diadiemmuasambienhoa.com
 xuseca.cloud
-worldfxza.com
 online.xn--6frz82g
 domail.info
 nhotv.com
@@ -2302,7 +2411,6 @@ hotrometa.com
 maxseeding.vn
 by9.lol
 bandmuflikhun.biz
-physicaladithama.io
 past-line.com
 killlove.site
 91tanhua.top
@@ -2559,7 +2667,6 @@ risanmedia.id
 trumclone.net
 adsensekorea.com
 mos-kwa.ru
-dunhila.online
 hitbtcpool.cloud
 fdfriend.store
 ukraynaliopal.network
@@ -2613,7 +2720,6 @@ subrevn.net
 vienphunxamvidy.com
 fastmails.info
 comprar-com-desconto.com
-chupanhcuoidep.com
 coochi.nl
 puretoc.com
 maivantuan1994.top
@@ -2794,7 +2900,6 @@ mentongwang.com
 ckiaspal.ovh
 hearkn.com
 nofxmail.com
-primejetnet.com
 rsmspca.com
 sunnyblogexpress.com
 deathwishcoffee.us
@@ -3204,7 +3309,6 @@ maxpeedia.com
 dhun.us
 metalike.pro
 rotandilas.store
-glowingsyabrianty.biz
 systemchange.me
 portalworldai.com
 sayago.online
@@ -3650,67 +3754,133 @@ beinger.me
 shiro.ae
 zonesmartai.com
 abyssmail.com
-suepbelonjo.xyz
-fotokults.de
-mugesutopal.shop
-kaisercafe.es
-thefunnyanimals.com
 
-## mailsac.com
-mailsac.com
+## harakirimail.com
+harakirimail.com
 
-## moakt.com
-drmail.in
+## 22.do
+tnbeta.com
 
-## shitmail.me
-shitmail.me
+## disposeamail.com
+disposeamail.com
 
-## tempmail.plus
-merepost.com
-any.pink
-fextemp.com
-chitthi.in
-rover.info
-mailbox.in.ua
-fexbox.org
-fexpost.com
-mailto.plus
+## airmailbox.website
+mepost.pw
+givememail.club
+airmailbox.website
+onemail.host
 
-## hizli.email
-hizliemail.net
-hizli.email
-hizliemail.com
+## mintemail.com
+cj.mintemail.com
 
-## maildim.com
-maildim.com
+## mail1.io
+privacylock.net
+pimmel.top
+multiscanner.org
+megaradical.com
+looksecure.net
+ucm8.com
+linux0.net
+l9pdev.com
+hacker9.org
+busykitchen.com
+britishpreschool.net
+basketball.group
 
-## 10minutemail.net
-toaik.com
-laoia.com
-jioso.com
-bcooq.com
-msssg.com
-kisoq.com
-inohm.com
+## fakemail.net
+fontfee.com
+freedrops.org
+fsitip.com
+fabricoak.com
+thefluent.org
+filesaved.org
+fileexp.com
+finestudio.org
+feesites.com
 
-## internxt.com
-comfythings.com
-2200freefonts.com
-tiffincrane.com
-powerscrews.com
-somoj.com
-mechanicspedia.com
-punkproof.com
-dcpa.net
-chefalicious.com
-ptct.net
-indigobook.com
-edny.net
-e-record.com
-tohru.org
-freesourcecodes.com
-soscandia.org
-goeschman.com
+## mohmal.com
+webxio.pro
+webxios.pro
+emailwww.pro
+emaily.pro
+emailawb.pro
+emailvb.pro
+
+## anonmails.de
+anonmails.de
+
+## mailswipe.net
+ooter.nl
+
+## tempmail.io
+onemail.host
+givememail.club
+airmailbox.website
+mepost.pw
+
+## eyepaste.com
+eyepaste.com
+
+## anonymmail.net
+mailbali.com
+fanymail.com
+fumemail.com
+cneemail.com
+
+## 10minutesemail.net
+ufc.edu.pl
+mytemails.com
+uf.edu.pl
+ipahive.org
+
+## muellmail.com
+wegwerfemail.de
+wegwerfemail.com
+ultra.fyi
+tonne.to
+sudern.de
+stacys.mom
+spam.care
+schafmail.de
+ramenmail.de
+papierkorb.me
+oida.icu
+muellmail.com
+muellemail.com
+muell.xyz
+muell.monster
+muell.io
+muell.icu
+mdz.email
+magspam.net
+lambsauce.de
+knickerbockerban.de
+ji7.de
+ji6.de
+ji5.de
+jaga.email
+holio.day
+corn.holio.day
+bung.holio.day
+hihi.lol
+gebrauchtwarencenter.com
+fukaru.com
+fliegender.fish
+existiert.net
+edv.to
+e-postkasten.de
+dumbass.nl
+dsgvo.party
+10minutenmail.xyz
+10minmail.de
+kein.date
+
+## thnen.com
+thnen.com
+
+## tempmail.adguard.com
+lettershield.com
+instantletter.net
 
 ## guerrillamail.com
 spam4.me
@@ -3725,41 +3895,145 @@ grr.la
 guerrillamail.info
 sharklasers.com
 
-## mail1a.de
-mail1a.de
+## getnada.com
+inboxes.com
 
-## easytrashmail.com
-easytrashmail.com
+## mailinator.com
+mailinator.com
 
-## yopmail.net
-yopmail.net
+## linshiyouxiang.net
+mediaeast.uk
+deepyinc.com
+justdefinition.com
+gongjua.com
+inctart.com
+pdf-cutter.com
+deepmails.org
+mailsbay.com
+123mails.org
+mediaholy.com
+swagpapa.com
+besttempmail.com
+linshiyouxiang.net
 
-## shitmail.org
-crapmail.org
-shitmail.org
+## trash-mail.com
+trash-mail.com
+opentrash.com
+fake-box.com
+you-spam.com
 
-## altaddress.org
-spamzero.net
-freemail.is
-email4.in
-altaddress.org
-membermail.net
-otheremail.org
-xn--80aabqk5atp.com
-just4junk.com
-mailshield.org
-altaddress.net
-altaddress.com
-ourisp.net
-newtonius.net
-hidefrom.us
-intrarmour.com
+## minuteinbox.com
+moonfee.com
+malldrops.com
+msitip.com
+magneticoak.com
+themodish.org
+moneyleak.org
+megasend.org
+moonapps.org
+moonwall.org
+
+## 10minutemail.com
+fxavaj.com
+nespf.com
+enotj.com
+nesopf.com
+nespj.com
+xfavaj.com
+ytnhy.com
+poplk.com
+hthlm.com
+nbmbb.com
+
+## fex.plus
+mailto.plus
+
+## spamdecoy.net
+deadchildren.org
+slave-auctions.net
+ntlhelp.net
+dharmatel.net
+spamdecoy.net
+
+## snapmail.cc
+snapmail.cc
+
+## default.tmail.thehp.in
+kdmail.xyz
+drivelander.com
+pdmail.online
+
+## wegwerfemailadresse.com
+teleworm.us
+superrito.com
+rhyta.com
+jourrapide.com
+gustr.com
+fleckens.hu
+einrot.com
+dayrep.com
+cuvox.de
+armyspy.com
+
+## mailsac.com
+mailsac.com
+
+## altmails.com
+altmails.com
+
+## tuamaeaquelaursa.com
+tuamaeaquelaursa.com
+
+## tempail.com
+necub.com
+gufum.com
+
+## dropmail.me
+emlpro.com
+mailpwr.com
+yomail.info
+emlhub.com
+spymail.one
+dropmail.me
+emltmp.com
+freeml.net
+10mail.org
+mimimail.me
+10mail.xyz
+laste.ml
+maximail.fyi
+
+## spamgourmet.com
+spamgourmet.com
 
 ## emailfake.com
+honesthirianinda.net
+vibertees.com
+hotrokh.com
+code-gmail.com
+peakwavepro.com
+past-line.com
+aumails.us
+discorded.io
+maxseeding.com
+kutsartor.shop
+penampilannieken.io
+kuruyuk.com
+sozenit.com
+11jac.com
+longsbkt.xyz
+fbviamail.com
+mlgmail.top
+arenahiveai.com
+meetingpoint-point.com
+expecters.site
+btcmod.com
+anjay.id
+doanhnhanfacebook.com
+boostme.es
 24hinbox.com
 monijoa.com
 skyfieldhub.com
-honesthirianinda.net
 capcut.team
 luonglanhlung.com
 maxseeding.vn
@@ -3782,7 +4056,6 @@ gmailot.com
 0411cs.com
 524446913.xyz
 moneylogtips.com
-vibertees.com
 monyal.fun
 icbr.us
 waroengpt.com
@@ -3791,7 +4064,6 @@ waroengku.digital
 chatwesi.com
 smartretireway.com
 artropad.net
-btcmod.com
 phubt.com
 binanceglobalpoolspro.cloud
 gdqoe.net
@@ -3803,14 +4075,12 @@ sadbor.club
 tastmemail.com
 fviamail.com
 sentimentdate.com
-longsbkt.xyz
 ketua.id
 816qs.com
 cuentaspelis.top
 etics.us
 warunkto.com
 codemail1.com
-code-gmail.com
 natachai.me
 linkbm.one
 omarnasrrr.com
@@ -3881,7 +4151,6 @@ onlinecmail.com
 gethexbox.com
 vtoan.store
 iptakedownusa.com
-doanhnhanfacebook.com
 mekikcek.network
 zuigaodeshanfeng.icu
 easyhomefit.com
@@ -3900,7 +4169,6 @@ ilustrosonic.com
 vps79.com
 tmxttvmail.com
 fancyzuhdi.net
-hotrokh.com
 gaskuy93.art
 naverapp.com
 niceminute.com
@@ -3938,7 +4206,6 @@ pdood.com
 h0tmaii.com
 itm311.com
 eliotkids.com
-11jac.com
 rajaiblis.com
 edfore.cloud
 care-breath.com
@@ -3960,7 +4227,6 @@ otpku.com
 cumfoto.com
 bsz.us
 generator1email.com
-past-line.com
 xn--b1accdn5bheqm.site
 azulejoslowcost.es
 ctxh.site
@@ -3983,7 +4249,6 @@ otp247.me
 mailphu.com
 akunku.shop
 vietfashop.com
-mlgmail.top
 degar.xyz
 lamshop.site
 7rv.es
@@ -4002,7 +4267,6 @@ jibbo01.com
 khuong.store
 huairen5.sbs
 thaitudang.xyz
-maxseeding.com
 vinaclicks.com
 corefitrun.com
 dunhila.com
@@ -4080,7 +4344,6 @@ thichmmo.com
 1smailbr.top
 pakservices.info
 etchingdoangia.com
-sozenit.com
 77mail.xyz
 bjs-team.com
 doremifasoleando.es
@@ -4164,7 +4427,6 @@ millimnava.info
 whatthefish.info
 tokito.sbs
 smartgrasspools.tech
-meetingpoint-point.com
 nevanata.com
 doods7.com
 rapatbahjatya.net
@@ -4193,7 +4455,6 @@ izhowto.com
 nanopools.info
 ds4kojima.com
 tijdelijke.email
-peakwavepro.com
 crashkiller.ovh
 chieninsta.shop
 vipivip.vip
@@ -4208,7 +4469,6 @@ basepathgrid.com
 sajutadollars.com
 tryhiveclick.com
 greatness.cc
-anjay.id
 ytchanneltips.com
 kk1.lol
 owenmcdsa.sbs
@@ -4370,7 +4630,6 @@ tignovate.com
 besnetor.com
 patrickmeinhardt.de
 sarawakreport.com
-fbviamail.com
 worldwide-hungerrelief.org
 sanfnges.cc
 questhivehub.com
@@ -4608,7 +4867,6 @@ hulaspalmcourt.com
 starnlink.com
 bromeil.com
 lombaniaga.shop
-boostme.es
 nst-customer.com
 citron-client.ru
 plussparknet.com
@@ -4706,7 +4964,6 @@ suryapasti.com
 kumpulanmedia.com
 digitalproductprovider.com
 latihanindrawati.net
-arenahiveai.com
 phucdpi3112.com
 udinnews.com
 dedesignessentials.com
@@ -5122,7 +5379,6 @@ mailscoper.shop
 toeapps.digital
 alpersadikan.sbs
 worldreviewjournal.com
-penampilannieken.io
 cakdays.com
 cryptogpt.live
 cilmiyom.online
@@ -5147,7 +5403,6 @@ anmmo2024.com
 leluconnurrima.biz
 sobatapps.com
 optidesk.xyz
-discorded.io
 stubbornakdani.io
 elaina8386.buzz
 casemails.xyz
@@ -5483,27 +5738,15 @@ bocilaws.online
 rustyfariza.com
 ciuwin.com
 mailkp.pro
-kaisercafe.es
-buvgul.com
-mugesutopal.shop
 
-## txen.de
-txen.de
-aufu.de
-zegt.de
-dwrf.net
-errals.com
-pooj.de
-zeah.de
-niede.de
-skyrt.de
-xrap.de
-wsym.de
+## mailnesia.com
+mailnesia.com
 
-## mailinator.com
-mailinator.com
+## tempmail.altmails.com
+altmails.com
 
 ## anonbox.net
+7j7cf.anonbox.net
 bhmvy.anonbox.net
 bvxay.anonbox.net
 u42tg.anonbox.net
@@ -6101,61 +6344,49 @@ bsjf5.anonbox.net
 5qc5q.anonbox.net
 bjhd6.anonbox.net
 byawe.anonbox.net
-bfl4g.anonbox.net
 
-## kuku.lu
-uma3.be
-macr2.com
-boxfi.uk
-heisei.be
-mail4.uk
-ichigo.me
-mbox.re
-via.tokyo.jp
-owleyes.ch
-f5.si
-fuwari.be
-instaddr.win
-addrin.uk
-send4.uk
-nekosan.uk
-usako.net
-stayhome.li
-fanclub.pm
-digdig.org
-instaddr.ch
-eay.jp
-sendapp.uk
-hamham.uk
-haren.uk
-cream.pink
-adadad.uk
-neko2.net
-choco.la
-exdonuts.com
-quicksend.ch
-honeys.be
-magim.be
-instaddr.uk
-merry.pink
-tapi.re
-ruru.be
-mirai.re
-svk.jp
-fuwamofu.com
-moimoi.re
-bangban.uk
-meruado.uk
-instmail.uk
-nanana.uk
+## easytrashmail.com
+easytrashmail.com
 
-## tempmail.io
-airmailbox.website
-givememail.club
-mepost.pw
-onemail.host
+## fakermail.com
+chewydonut.com
+mailbiscuit.com
+pizzajunk.com
+sharkfaces.com
+whaaaaaaaaaat.com
+spamfellas.com
+snakebutt.com
+silenceofthespam.com
+itsjiff.com
+spamsandwich.com
+lilspam.com
+sociallymediocre.com
+realquickemail.com
+thespamfather.com
+hypenated-domain.com
 
 ## mail-temp.com
+gmaillk.com
+khuong.store
+aqwee.online
+5conto.com
+naverly.com
+doremifasoleando.es
+monyal.fun
+dishow.net
+hieuclone.com
+diadiemmuasambienhoa.com
+cggup.com
+johanssondeterry.es
+lamshop.site
+byzoometri.com
+mailphu.com
+binhduong.bar
+onick.tech
+remailt.net
+buybm.one
+linkbm.one
+shiptudo.com
 stubbornakdani.io
 torrentclub.online
 jagomail.com
@@ -6193,7 +6424,6 @@ nguyentinhblog.com
 sarawakreport.com
 csx-1.store
 scatterteam.com
-gmaillk.com
 gimail.cloud
 nowpodbid.com
 aumails.us
@@ -6206,7 +6436,6 @@ vibertees.com
 discorded.io
 writefornet.com
 longsbkt.xyz
-johanssondeterry.es
 onlinecmail.com
 gdfgergrer.shop
 zoomintens.com
@@ -6226,10 +6455,7 @@ phucmmo.com
 peakwavepro.com
 receita-iof.org
 owenmcdsa.sbs
-cggup.com
-buybm.one
 via17.com
-diadiemmuasambienhoa.com
 amazinggift.life
 phanmembanhang24h.com
 gmail2.gq
@@ -6238,20 +6464,16 @@ feelmyheartwithsong.com
 genztrang.com
 trumclone.net
 ninepacman.com
-mailphu.com
 chatwesi.com
 easyhomefit.com
 azrmail.com
 fastdating.lat
-5conto.com
-doremifasoleando.es
 igdinhcao.com
 xenamode.shop
 24hinbox.com
 omegazetacryptopool.online
 trywavegrid.com
 nguyenlieu24h.com
-monyal.fun
 accountscenter.support
 gakhum.com
 code-gmail.com
@@ -6272,7 +6494,6 @@ linkjetdata.com
 00jac.com
 ads24h.top
 edumomtalk.com
-dishow.net
 casinolotte.com
 capcut.team
 alightmotion.id
@@ -6285,13 +6506,11 @@ tamsholdings.com
 maxseeding.vn
 bondjol.com
 lechatiao.com
-onick.tech
 capcutnihbos.site
 seohesapmarket.com
 tuvanwebsite.com
 mailfance.com
 quinz.me
-khuong.store
 dmxs8.com
 belajaryuk.me
 dudscc.sbs
@@ -6305,7 +6524,6 @@ kazinkana.com
 boranora.com
 pakservices.info
 gulasurakhman.net
-naverly.com
 dunhila.com
 successfulnewspedia.com
 qingheluo.com
@@ -6414,7 +6632,6 @@ lellolidk.de
 warunkto.com
 quanpzo.click
 goldenmagpies.com
-shiptudo.com
 mmo55.com
 auhit.com
 adasd.cc
@@ -6457,7 +6674,6 @@ omggreatfoods.com
 pdood.com
 thhdfws.us
 likebaiviet.com
-byzoometri.com
 yaholo.cloud
 fbiagent.cyou
 dajotayo.com
@@ -6536,7 +6752,6 @@ dagavip1.top
 movieisme.co
 donusumekatil.com
 lovelynazar.net
-linkbm.one
 dichvuxe24h.com
 pu-c.lol
 viruts2001.top
@@ -6636,7 +6851,6 @@ hopeence.com
 tandlplith.se
 key2info.com
 marketmail.info
-remailt.net
 maillasd1.trade
 clonvn2.com
 linksparkclick.com
@@ -6912,7 +7126,6 @@ mudahmaxwin.com
 forummaxai.com
 auraence.com
 24mail.top
-hieuclone.com
 subrevn.net
 basemindway.com
 moreablle.com
@@ -7378,7 +7591,6 @@ sport9.win
 specialmailmonster.online
 chatkamu.com
 fbfubao.com
-aqwee.online
 hubinfoai.com
 gesthedu.com
 vietnams.shop
@@ -7464,7 +7676,6 @@ awesomenewfile.site
 nexadraw.com
 kitapidea.com
 huutinhrestaurant.com
-lamshop.site
 tongon.online
 maxpedia.cloud
 aybukeaycaturna.shop
@@ -7913,90 +8124,18 @@ gudri.com
 enunal.com
 breakwooden.vn
 kooijman-coaching.nl
-editor.edu.vn
-sepedarusnida.com
-mugesutopal.shop
-divuva.click
 
-## mail.td
-6n9.net
-uuf.me
-end.tw
-qabq.com
-nqmo.com
-yzm.de
-
-## tempmail.cn
-tempmail.cn
-
-## eyepaste.com
-eyepaste.com
-
-## getnada.com
-inboxes.com
-
-## fex.plus
-mailto.plus
-
-## spoofmail.de
-candymail.de
-doublemail.de
-funnymail.de
-puppetmail.de
-spoofmail.fr
-spoofmail.es
-spoofmail.de
-
-## dropmail.me
-freeml.net
-yomail.info
-emlpro.com
-mimimail.me
-mailpwr.com
-10mail.xyz
-emltmp.com
-emlhub.com
-dropmail.me
-10mail.org
-spymail.one
-laste.ml
-maximail.fyi
-
-## haribu.net
-yevme.com
-
-## minimail.eu.org
-minimail.eu.org
-
-## 24hour.email
-egute.space
-checknow.online
-quimail.site
-ticktell.online
-istuck.online
-msize.space
-keepit.site
-
-## dodsi.com
-yevme.com
-
-## youxiang.dev
-youxiang.dev
-
-## temporary-email.org
-omailo.top
-biomails.com
-sasmil.org
-tousma.com
-ingam.top
-owmail.net
-coachnutrio.com
-icemails.top
-museumpi.com
-ahouse.top
-generad.club
-gdhospital.life
-moneytbay.life
+## fakemailgenerator.com
+einrot.com
+rhyta.com
+dayrep.com
+fleckens.hu
+jourrapide.com
+gustr.com
+superrito.com
+cuvox.de
+armyspy.com
+teleworm.us
 
 ## tempr.email
 koes.justdied.com
@@ -8023,101 +8162,123 @@ tempr.email
 web.run.place
 tempr-mail.line.pm
 
-## airmailbox.website
-onemail.host
-givememail.club
-mepost.pw
-airmailbox.website
+## yopmail.com
+yopmail.com
 
-## disposeamail.com
-disposeamail.com
+## emailnator.com
+psnator.com
+smartnator.com
+tmpmailtor.com
+mydefipet.live
+femailtor.com
 
-## spamdecoy.net
-deadchildren.org
-slave-auctions.net
-ntlhelp.net
-dharmatel.net
-spamdecoy.net
+## disposableemail.co
+malioter.pro
+backilnge.com
+modebeytr.net
+livemalins.net
+malinatorgen.com
+makgying.com
+friedfyhu.com
+webomoil.com
 
-## 10minutesemail.net
-ufc.edu.pl
-mytemails.com
-uf.edu.pl
-ipahive.org
+## yopmail.net
+yopmail.net
 
-## trash-mail.com
-trash-mail.com
-opentrash.com
-fake-box.com
-you-spam.com
+## mail.td
+6n9.net
+uuf.me
+end.tw
+qabq.com
+nqmo.com
+yzm.de
 
-## spamgourmet.com
-spamgourmet.com
+## linshiyou.com
+linshiyou.com
 
-## wegwerfemailadresse.com
-teleworm.us
-superrito.com
-rhyta.com
-jourrapide.com
-gustr.com
-fleckens.hu
-einrot.com
-dayrep.com
-cuvox.de
-armyspy.com
+## lroid.com
+yevme.com
 
-## edumail.icu
-academic.edu.rs
-edumail.edu.rs
-fastmail.edu.pl
-bcm.edu.pl
-gold.edu.pl
-agp.edu.pl
-gng.edu.pl
-diplo.edu.pl
-oxfor.edu.pl
-uue.edu.pl
-ares.edu.pl
-avangard.ru.com
-122444.xyz
-696902.xyz
-fastsms24.shop
-edumail.store
-albos.in
-koka.my
-bluemail.my
-spacemail.my
-jitsu.my
-poko.my
-zige.my
-fastsms.my
-galamail.biz
-ashiro.biz
-postinbox.pw
-inboxmails.de
-blogerspace.com
-doctormail.info
-mailvip.info
-vip-mail.info
-mail5.info
-floris.sa.com
-edumail.su
-uee.edu.pl
-3g.lol
-504333.xyz
-334343.xyz
-304333.xyz
-itt.it.com
-mailbuzz.buzz
-fbmail.my
-eromail.org
-mailinux.me
-blazemail.me
-fastermail.biz
-emailfast.me
+## kuku.lu
+f5.si
+send4.uk
+ruru.be
+stayhome.li
+exdonuts.com
+tapi.re
+usako.net
+nekosan.uk
+bangban.uk
+digdig.org
+choco.la
+moimoi.re
+mail4.uk
+boxfi.uk
+nanana.uk
+adadad.uk
+uma3.be
+macr2.com
+heisei.be
+ichigo.me
+mbox.re
+via.tokyo.jp
+owleyes.ch
+fuwari.be
+instaddr.win
+addrin.uk
+fanclub.pm
+instaddr.ch
+eay.jp
+sendapp.uk
+hamham.uk
+haren.uk
+cream.pink
+neko2.net
+quicksend.ch
+honeys.be
+magim.be
+instaddr.uk
+merry.pink
+mirai.re
+svk.jp
+fuwamofu.com
+meruado.uk
+instmail.uk
 
-## yopmail.fr
-yopmail.fr
+## temp-inbox.me
+instantbox.online
+texify.online
+temp-inbox.me
+quikdrop.space
+loopbox.store
+plumdrop.xyz
+cozydrop.xyz
+
+## temporarymail.com
+mailmagnet.co
+easymailer.live
+horizonspost.com
+allfreemail.net
+allwebemails.com
+inboxorigin.com
+mycreativeinbox.com
+openmail.pro
+solarnyx.com
+
+## spoofmail.de
+candymail.de
+doublemail.de
+funnymail.de
+puppetmail.de
+spoofmail.fr
+spoofmail.es
+spoofmail.de
+
+## youxiang.dev
+youxiang.dev
+
+## maildim.com
+maildim.com
 
 ## disposablemail.com
 dunefee.com
@@ -8129,82 +8290,41 @@ dealexp.org
 deallabs.org
 dagberet.com
 
-## mail.gen.tr
-email.gen.tr
-email.net.tr
-mail.gen.tr
+## dodsi.com
+yevme.com
+
+## poo.email
+poo.email
+
+## hizli.email
+hizliemail.net
+hizli.email
+hizliemail.com
+
+## moakt.com
+drmail.in
+
+## static
+justatemp.com
+mxscout.com
+
+## shitmail.me
+shitmail.me
+
+## 10minutemail.org
+toaik.com
+laoia.com
+jioso.com
+bcooq.com
+msssg.com
+kisoq.com
+inohm.com
 
 ## niepodam.pl
 niepodam.pl
 
-## throwaway.io
-2bedbluewaters.com
-brokeragedxb.com
-bnbme.tv
-bnbme.info
-myspainishmail.com
-encrypted4email.com
-nlopenworld.com
-mybeligummail.com
-theemailaddy.com
-nolog.network
-beligummail.com
-ledhorticultural.com
-serverwarningalert.com
-
-## temp-mail.io
-bltiwd.com
-osxofulk.com
-illubd.com
-jkotypc.com
-bwmyga.com
-mrotzis.com
-ozsaip.com
-mkzaso.com
-xkxkud.com
-wnbaldwy.com
-yzcalo.com
-cmhvzylmfc.com
-daouse.com
-zudpck.com
-wyoxafp.com
-ibolinva.com
-jxpomup.com
-vwhins.com
-qzueos.com
-zvvzuv.com
-qejjyl.com
-qacmjeq.com
-wywnxa.com
-smykwb.com
-knmcadibav.com
-vafyxh.com
-tidissajiiu.com
-dygovil.com
-vvatxiy.com
-somelora.com
-zlorkun.com
-gonetor.com
-
-## mailswipe.net
-ooter.nl
-
-## harakirimail.com
-harakirimail.com
-
-## default.tmail.thehp.in
-kdmail.xyz
-drivelander.com
-pdmail.online
-
-## temp-inbox.me
-instantbox.online
-texify.online
-temp-inbox.me
-quikdrop.space
-loopbox.store
-plumdrop.xyz
-cozydrop.xyz
+## akmail.in
+akmail.in
 
 ## 10minutemail.info
 laoia.com
@@ -8215,24 +8335,40 @@ msssg.com
 kisoq.com
 inohm.com
 
-## 22.do
-tnbeta.com
+## mail1a.de
+mail1a.de
 
-## lroid.com
+## haribu.net
 yevme.com
 
-## thnen.com
-thnen.com
+## temporary-mail.net
+linshiyouxiang.net
+besttempmail.com
+123mails.org
+deepmails.org
+deepyinc.com
+gongjua.com
+justdefinition.com
+inctart.com
+mediaholy.com
+mediaeast.uk
+mailsbay.com
+pdf-cutter.com
+swagpapa.com
+temporary-mail.net
+celebrityfull.com
+maillazy.com
+comparisions.net
 
 ## temp-mail.org
-feralrex.com
-bipochub.com
-okcdeals.com
-bablace.com
-izeao.com
 gamepec.com
-moondyal.com
+okcdeals.com
+bipochub.com
 aikunkun.com
+bablace.com
+moondyal.com
+feralrex.com
+izeao.com
 delaeb.com
 gusronk.com
 etramay.com
@@ -8593,193 +8729,60 @@ exoular.com
 cashbn.com
 gitated.com
 
-## mail-tester.com
-srv1.mail-tester.com
+## tempmail.cn
+tempmail.cn
 
-## mail1.io
-privacylock.net
-pimmel.top
-multiscanner.org
-megaradical.com
-looksecure.net
-ucm8.com
-linux0.net
-l9pdev.com
-hacker9.org
-busykitchen.com
-britishpreschool.net
-basketball.group
-
-## minuteinbox.com
-moonfee.com
-malldrops.com
-msitip.com
-magneticoak.com
-themodish.org
-moneyleak.org
-megasend.org
-moonapps.org
-moonwall.org
-
-## snapmail.cc
-snapmail.cc
-
-## disposableemail.co
-malioter.pro
-backilnge.com
-modebeytr.net
-livemalins.net
-malinatorgen.com
-makgying.com
-friedfyhu.com
-webomoil.com
-
-## byom.de
-byom.de
-
-## cryptogmail.com
-comfythings.com
-2200freefonts.com
-tiffincrane.com
-powerscrews.com
-somoj.com
-mechanicspedia.com
-punkproof.com
-dcpa.net
-chefalicious.com
-ptct.net
-indigobook.com
-edny.net
-e-record.com
-vintomaper.com
-labworld.org
-
-## fakemailgenerator.com
-fleckens.hu
-dayrep.com
-armyspy.com
-superrito.com
-cuvox.de
-rhyta.com
-teleworm.us
-jourrapide.com
-gustr.com
-einrot.com
-
-## temporarymail.com
-allwebemails.com
-allfreemail.net
-inboxorigin.com
-mycreativeinbox.com
-openmail.pro
-horizonspost.com
-easymailer.live
-solarnyx.com
-mailmagnet.co
-
-## mohmal.com
-webxio.pro
-webxios.pro
-emailwww.pro
-emaily.pro
-emailawb.pro
-emailvb.pro
-
-## yopmail.com
-yopmail.com
-
-## gecicimail.com.tr
-upperbox.org
-elifart.net
-gumglue.app
-
-## mailnesia.com
-mailnesia.com
-
-## altmails.com
-altmails.com
-
-## tempail.com
-necub.com
-gufum.com
+## 24hour.email
+egute.space
+checknow.online
+quimail.site
+ticktell.online
+istuck.online
+msize.space
+keepit.site
 
 ## etempmail.com
-cross.edu.pl
-beta.edu.pl
 usa.edu.pl
+beta.edu.pl
 ohm.edu.pl
+cross.edu.pl
 ozkadem.edu.pl
 tmst.com.tr
 ozel.edu.pl
 fast.edu.pl
 promail.edu.pl
 
-## temp-email.info
-01234.space
-prescriptionbyphone.com
-0123.website
-3344.online
-fbtiktok.store
-fbinsta.click
-fbinsta.shop
-fbinsta.store
-
-## chacuo.net
-027168.com
-chacuo.net
-
-## linshiyouxiang.net
-deepyinc.com
-123mails.org
-gongjua.com
-mediaholy.com
-swagpapa.com
-deepmails.org
-inctart.com
-besttempmail.com
-justdefinition.com
-linshiyouxiang.net
-pdf-cutter.com
-mailsbay.com
-mediaeast.uk
-
 ## tempinbox.xyz
-cryptoblad.online
-cryptoblad.nl
 glowend.xyz
-thepiratebay.cloud
 tempinbox.xyz
+cryptoblad.nl
+cryptoblad.online
+thepiratebay.cloud
 uptimesystem.io
 tpbay.site
 mailnet.cfd
 rocksmail.cfd
 avkwinkel.nl
 
-## temporary-mail.net
-linshiyouxiang.net
-besttempmail.com
-123mails.org
-deepmails.org
-deepyinc.com
-gongjua.com
-justdefinition.com
-inctart.com
-mediaholy.com
-mediaeast.uk
-mailsbay.com
-pdf-cutter.com
-swagpapa.com
-temporary-mail.net
-celebrityfull.com
-maillazy.com
-comparisions.net
+## chacuo.net
+027168.com
+chacuo.net
 
-## emailnator.com
-mydefipet.live
-femailtor.com
-tmpmailtor.com
-psnator.com
-smartnator.com
+## byom.de
+byom.de
+
+## trashmail.ws
+trashmail.ws
+
+## temp-email.info
+01234.space
+3344.online
+prescriptionbyphone.com
+0123.website
+fbtiktok.store
+fbinsta.click
+fbinsta.shop
+fbinsta.store
 
 ## faxmail.co
 ppcmedia.co
@@ -9187,14 +9190,8 @@ goeschman.com
 temporary-email.com
 
 ## gmailcity.com
-thesms.in
-it4u.shop
-b2t.tech
-moovo.in
-buylq.site
 
 ## mail7.io
-mail7.io
 
 ## temprmail.com
 
