@@ -418,6 +418,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### tempos.email
 ![Success Rate for tempos.email](https://fakefilter.net/public/img/dynamic/success-rate-202f1ab571d2bbbedb800012f8b6e7ff.png)
 
+### tempr.email
+![Success Rate for tempr.email](https://fakefilter.net/public/img/dynamic/success-rate-e95ab801716aa42529dd42873464433a.png)
+
 ### temprmail.com
 ![Success Rate for temprmail.com](https://fakefilter.net/public/img/dynamic/success-rate-8a29dd7fdd1a40a80a72697fe91aa203.png)
 
