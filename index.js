@@ -13,6 +13,37 @@ const apiserver = "https://fakefilter.net"
 // const apiserver = "http://127.0.0.1:5520" -- local tests
 const scheme = apiserver.search(/^https/) === 0 ? "https" : "http"
 
+// Cache for optimized lookup structures
+const lookupCache = new WeakMap()
+
+/**
+ * Build an optimized lookup structure for fast domain matching
+ * Uses a Map to store domains for O(1) exact match and O(k) suffix match
+ * where k is the number of domain parts
+ */
+function buildLookupStructure(json) {
+    const domainsMap = new Map()
+    const domainsList = Object.keys(json.domains)
+    
+    for (let domain of domainsList) {
+        domainsMap.set(domain, domain)
+    }
+    
+    return domainsMap
+}
+
+/**
+ * Get or create cached lookup structure for a json object
+ */
+function getLookupStructure(json) {
+    let lookup = lookupCache.get(json)
+    if (!lookup) {
+        lookup = buildLookupStructure(json)
+        lookupCache.set(json, lookup)
+    }
+    return lookup
+}
+
 function hostnameFromEmailAddress(email) {
     if (email && typeof email === 'string' && email.search(/@/) > 0)
         return email.split(/@/)[1]
@@ -21,12 +52,25 @@ function hostnameFromEmailAddress(email) {
 
 function isFakeDomain(domain, json = false) {
     if (!json) json = static_json_v1
-    for (let dom of Object.keys(json.domains)) {
-        // exact match
-        if (dom === domain.toLowerCase().trim()) return dom
-        // subdomain match
-        if (domain.search(new RegExp(`.+\\.${dom}`)) === 0) return dom
+    const lookupMap = getLookupStructure(json)
+    
+    const normalizedDomain = domain.toLowerCase().trim()
+    
+    // Check exact match first (O(1))
+    if (lookupMap.has(normalizedDomain)) {
+        return normalizedDomain
     }
+    
+    // Check for suffix match by removing subdomains one at a time
+    // e.g., for "a.b.c.example.com" check "b.c.example.com", then "c.example.com", then "example.com"
+    const parts = normalizedDomain.split('.')
+    for (let i = 1; i < parts.length; i++) {
+        const suffix = parts.slice(i).join('.')
+        if (lookupMap.has(suffix)) {
+            return suffix
+        }
+    }
+    
     return false
 }
 
