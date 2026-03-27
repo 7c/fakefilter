@@ -52,15 +52,15 @@ function hostnameFromEmailAddress(email) {
 
 function isFakeDomain(domain, json = false) {
     if (!json) json = static_json_v1
-    const lookupMap = getLookupStructure(json)
-    
+
     const normalizedDomain = domain.toLowerCase().trim()
-    
-    // Check exact match first (O(1))
-    if (lookupMap.has(normalizedDomain)) {
-        return normalizedDomain
-    }
-    
+
+    // Fast path: direct property lookup avoids Map/cache overhead for exact matches
+    if (json.domains[normalizedDomain]) return normalizedDomain
+
+    // Fall back to Map-based lookup for suffix matching
+    const lookupMap = getLookupStructure(json)
+
     // Check for suffix match by removing subdomains one at a time
     // e.g., for "a.b.c.example.com" check "b.c.example.com", then "c.example.com", then "example.com"
     const parts = normalizedDomain.split('.')
