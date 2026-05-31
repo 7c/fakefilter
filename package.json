@@ -3,10 +3,18 @@
   "version": "0.1.1578",
   "description": "reliable fake and temp email filter solution for site operators",
   "license": "BSD-3-Clause",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p tsconfig.build.json",
+    "clean": "rm -rf dist",
+    "prepare": "npm run build",
+    "test": "jest --forceExit",
+    "typecheck": "tsc --noEmit",
+    "example:online": "ts-node examples/online.ts"
   },
   "repository": {
     "type": "git",
@@ -24,5 +32,12 @@
     "url": "https://github.com/7c/fakefilter/issues"
   },
   "homepage": "https://github.com/7c/fakefilter#readme",
-  "dependencies": {}
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.9.1",
+    "jest": "^30.4.2",
+    "ts-jest": "^29.4.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
 }
