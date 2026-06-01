@@ -175,6 +175,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### getnada.com
 ![Success Rate for getnada.com](https://fakefilter.net/public/img/dynamic/success-rate-324bf98d42dbfeed98678e748e9b3d65.png)
 
+### getnada.net
+![Success Rate for getnada.net](https://fakefilter.net/public/img/dynamic/success-rate-1e3e4a014220d56f2c97f464f51ab009.png)
+
 ### gmailcity.com
 ![Success Rate for gmailcity.com](https://fakefilter.net/public/img/dynamic/success-rate-22e2ea43978b514174098fe830066aeb.png)
 
