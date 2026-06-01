@@ -7,5 +7,5 @@
     "rootDir": ".",
     "types": ["node"]
   },
-  "include": ["index.ts", "types.ts"]
+  "include": ["index.ts", "types.ts", "domainLookup.ts"]
 }

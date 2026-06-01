@@ -14,6 +14,7 @@
     "prepare": "npm run build",
     "test": "jest --forceExit",
     "typecheck": "tsc --noEmit",
+    "bench": "ts-node bench/compare.ts",
     "example:online": "ts-node examples/online.ts"
   },
   "repository": {

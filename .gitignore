@@ -3,3 +3,11 @@ node_modules/
 .vscode/
 dist/
 coverage/
+*.ts.map
+# stale root-level build artifacts (build output belongs in dist/)
+/index.js
+/index.d.ts
+/types.js
+/types.d.ts
+/examples/*.js
+/examples/*.d.ts

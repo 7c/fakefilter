@@ -11,6 +11,7 @@ import * as https from 'https'
 import * as http from 'http'
 import staticJsonV1 from './json/data.json'
 import { FakeDomainResponse, FakeFilterDataset } from './types'
+import { getLookup } from './domainLookup'
 //#endregion
 
 export type { DomainDetails, FakeDomainResponse } from './types'
@@ -26,13 +27,7 @@ export function hostnameFromEmailAddress(email: any): string | null {
 
 export function isFakeDomain(domain: string, json: boolean | FakeFilterDataset = false): string | false {
   const dataset: FakeFilterDataset = typeof json === 'boolean' ? staticJsonV1 : json
-  for (const dom of Object.keys(dataset.domains)) {
-    // exact match
-    if (dom === domain.toLowerCase().trim()) return dom
-    // subdomain match
-    if (domain.search(new RegExp(`.+\\.${dom}`)) === 0) return dom
-  }
-  return false
+  return getLookup(dataset).match(domain)
 }
 
 export function fetch(url: string, timeout = 5000, json = true): Promise<any> {

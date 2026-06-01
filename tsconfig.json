@@ -13,5 +13,5 @@
     "resolveJsonModule": true,
     "noEmit": true
   },
-  "include": ["index.ts", "types.ts", "examples/**/*.ts", "tests/**/*.ts"]
+  "include": ["index.ts", "types.ts", "domainLookup.ts", "examples/**/*.ts", "tests/**/*.ts", "bench/**/*.ts"]
 }
