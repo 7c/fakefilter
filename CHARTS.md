@@ -247,6 +247,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### mail1.io
 ![Success Rate for mail1.io](https://fakefilter.net/public/img/dynamic/success-rate-6f296685146ca8d27a397e2771dcdfbd.png)
 
+### mail123.click
+![Success Rate for mail123.click](https://fakefilter.net/public/img/dynamic/success-rate-4271b8c488c1b4ed1f804d61e599b3e6.png)
+
 ### mail1a.de
 ![Success Rate for mail1a.de](https://fakefilter.net/public/img/dynamic/success-rate-f75fbd08ff3a1c19c15a39e592cae702.png)
 
@@ -381,6 +384,9 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### tempail.com
 ![Success Rate for tempail.com](https://fakefilter.net/public/img/dynamic/success-rate-218430e2da46eacc651e24b93022cb93.png)
+
+### tempdukviet.click
+![Success Rate for tempdukviet.click](https://fakefilter.net/public/img/dynamic/success-rate-e0785da7f8e2e7d7a5b21a122da8f105.png)
 
 ### tempinbox.xyz
 ![Success Rate for tempinbox.xyz](https://fakefilter.net/public/img/dynamic/success-rate-db735acaafa348365fab47ca57bd98e9.png)
