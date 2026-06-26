@@ -6,6 +6,7 @@ coverage/
 *.ts.map
 # stale root-level build artifacts (build output belongs in dist/)
 /index.js
+/index.js.map
 /index.d.ts
 /types.js
 /types.d.ts
