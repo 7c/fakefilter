@@ -160,9 +160,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### fyii.de
 ![Success Rate for fyii.de](https://fakefilter.net/public/img/dynamic/success-rate-d642de57328e606cfa23036a1b1c6741.png)
 
-### gecicimail.co
-![Success Rate for gecicimail.co](https://fakefilter.net/public/img/dynamic/success-rate-5312a439aa881d0bc2097109c7a8ecc8.png)
-
 ### gecicimail.com.tr
 ![Success Rate for gecicimail.com.tr](https://fakefilter.net/public/img/dynamic/success-rate-e4794385bf08fb129088046a8af3f9ab.png)
 
@@ -372,9 +369,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### temp-mail.org
 ![Success Rate for temp-mail.org](https://fakefilter.net/public/img/dynamic/success-rate-1b91b672fd140b05b50f6f1ed93432e5.png)
-
-### temp-mailbox.com
-![Success Rate for temp-mailbox.com](https://fakefilter.net/public/img/dynamic/success-rate-7a9c3e5552c07cdb86077f5c7dbb5cf7.png)
 
 ### temp-mails.com
 ![Success Rate for temp-mails.com](https://fakefilter.net/public/img/dynamic/success-rate-8ddd982648102fce7615f68d094f36fd.png)
