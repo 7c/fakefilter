@@ -241,9 +241,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### mail.tm
 ![Success Rate for mail.tm](https://fakefilter.net/public/img/dynamic/success-rate-2c082c1e11d4e0042c526daf2ce955eb.png)
 
-### mail1.io
-![Success Rate for mail1.io](https://fakefilter.net/public/img/dynamic/success-rate-6f296685146ca8d27a397e2771dcdfbd.png)
-
 ### mail123.click
 ![Success Rate for mail123.click](https://fakefilter.net/public/img/dynamic/success-rate-4271b8c488c1b4ed1f804d61e599b3e6.png)
 
@@ -456,9 +453,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 
 ### tenmail.org
 ![Success Rate for tenmail.org](https://fakefilter.net/public/img/dynamic/success-rate-fca48b9bfa4b1f8c46235cc68d45c337.png)
-
-### thnen.com
-![Success Rate for thnen.com](https://fakefilter.net/public/img/dynamic/success-rate-67600942541f867e30e018010603b6b1.png)
 
 ### throwaway.io
 ![Success Rate for throwaway.io](https://fakefilter.net/public/img/dynamic/success-rate-77971e5acc16b1eec70023a930612f93.png)
