@@ -40,9 +40,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### 10minutesemail.net
 ![Success Rate for 10minutesemail.net](https://fakefilter.net/public/img/dynamic/success-rate-9964462022c7d46bfa7896fd9f164b44.png)
 
-### 1sec-mail.com
-![Success Rate for 1sec-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-2586e7ac8758d432021a32da6e0cced0.png)
-
 ### 1secmail.com
 ![Success Rate for 1secmail.com](https://fakefilter.net/public/img/dynamic/success-rate-9ad20aeda4e9c047e8be1362e8a3dfba.png)
 
