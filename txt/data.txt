@@ -2171,6 +2171,7 @@ trashmail.lol
 picomail.biz
 maximail.fyi
 laste.ml
+khanggay.eu.org
 
 ## tempmail.adguard.com
 lettershield.com
