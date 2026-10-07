@@ -295,9 +295,6 @@ Per Provider Success Rate per Day - A lower Success rate might mean different th
 ### muellmail.com
 ![Success Rate for muellmail.com](https://fakefilter.net/public/img/dynamic/success-rate-881eff352b0947f63fdc6fabba4dd276.png)
 
-### mytemp-mail.com
-![Success Rate for mytemp-mail.com](https://fakefilter.net/public/img/dynamic/success-rate-ce8064ed0a79b46def96219c0e9bb8be.png)
-
 ### mytemp.email
 ![Success Rate for mytemp.email](https://fakefilter.net/public/img/dynamic/success-rate-fa62b96dc7a94d6920dba465b6ce92b9.png)
 
